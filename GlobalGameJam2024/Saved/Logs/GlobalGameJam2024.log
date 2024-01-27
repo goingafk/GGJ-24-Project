@@ -1854,3 +1854,1426 @@ Would you like to regenerate the Skeleton from this mesh?
 [2024.01.26-23.59.18:752][915]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
 [2024.01.26-23.59.18:807][916]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
 [2024.01.26-23.59.18:812][917]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2024.01.27-00.04.53:610][266]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2024.01.27-00.04.53:613][266]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/VC/B6M4FQHSHRJO0JIF8DX2KW_Auto2
+[2024.01.27-00.04.53:614][266]LogSavePackage: Moving 'C:/Users/neoha/Documents/GitHub/GGJ-24-Project/GlobalGameJam2024/Saved/B6M4FQHSHRJO0JIF8DX2KW_Auto2C29961754F2C42D20F343F8652C0F3EF.tmp' to 'C:/Users/neoha/Documents/GitHub/GGJ-24-Project/GlobalGameJam2024/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/VC/B6M4FQHSHRJO0JIF8DX2KW_Auto2.uasset'
+[2024.01.27-00.04.53:615][266]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/MB/W2LKANE4FRN0UN3BGME3DX_Auto2
+[2024.01.27-00.04.53:616][266]LogSavePackage: Moving 'C:/Users/neoha/Documents/GitHub/GGJ-24-Project/GlobalGameJam2024/Saved/W2LKANE4FRN0UN3BGME3DX_Auto2105123DC476FBD0A1C55DEB81F4E4AE8.tmp' to 'C:/Users/neoha/Documents/GitHub/GGJ-24-Project/GlobalGameJam2024/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/MB/W2LKANE4FRN0UN3BGME3DX_Auto2.uasset'
+[2024.01.27-00.04.53:616][266]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.012
+[2024.01.27-00.04.53:616][266]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.012
+[2024.01.27-00.04.53:616][266]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Neo/Dances/Hip-Hop/Hip_Hop_Dancing] ([1] browsable assets)...
+[2024.01.27-00.04.53:653][266]OBJ SavePackage:     Rendered thumbnail for [SkeletalMesh /Game/Neo/Dances/Hip-Hop/Hip_Hop_Dancing.Hip_Hop_Dancing]
+[2024.01.27-00.04.53:653][266]OBJ SavePackage: Finished generating thumbnails for package [/Game/Neo/Dances/Hip-Hop/Hip_Hop_Dancing]
+[2024.01.27-00.04.53:657][266]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Neo/Dances/Hip-Hop/Hip_Hop_Dancing_Auto2
+[2024.01.27-00.04.53:658][266]LogSavePackage: Moving 'C:/Users/neoha/Documents/GitHub/GGJ-24-Project/GlobalGameJam2024/Saved/Hip_Hop_Dancing_Auto23F75BDF140A19B0580CF859FCBDE0663.tmp' to 'C:/Users/neoha/Documents/GitHub/GGJ-24-Project/GlobalGameJam2024/Saved/Autosaves/Game/Neo/Dances/Hip-Hop/Hip_Hop_Dancing_Auto2.uasset'
+[2024.01.27-00.04.53:658][266]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Neo/Dances/Hip-Hop/Hip_Hop_Dancing_Skeleton] ([1] browsable assets)...
+[2024.01.27-00.04.53:666][266]OBJ SavePackage:     Rendered thumbnail for [Skeleton /Game/Neo/Dances/Hip-Hop/Hip_Hop_Dancing_Skeleton.Hip_Hop_Dancing_Skeleton]
+[2024.01.27-00.04.53:666][266]OBJ SavePackage: Finished generating thumbnails for package [/Game/Neo/Dances/Hip-Hop/Hip_Hop_Dancing_Skeleton]
+[2024.01.27-00.04.53:668][266]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Neo/Dances/Hip-Hop/Hip_Hop_Dancing_Skeleton_Auto2
+[2024.01.27-00.04.53:668][266]LogSavePackage: Moving 'C:/Users/neoha/Documents/GitHub/GGJ-24-Project/GlobalGameJam2024/Saved/Hip_Hop_Dancing_Skeleton_Auto20EE695D34D3FF7AE04252A935A7CDBC0.tmp' to 'C:/Users/neoha/Documents/GitHub/GGJ-24-Project/GlobalGameJam2024/Saved/Autosaves/Game/Neo/Dances/Hip-Hop/Hip_Hop_Dancing_Skeleton_Auto2.uasset'
+[2024.01.27-00.04.53:669][266]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Neo/Dances/Hip-Hop/Hip_Hop_Dancing_PhysicsAsset] ([1] browsable assets)...
+[2024.01.27-00.04.53:676][266]OBJ SavePackage:     Rendered thumbnail for [PhysicsAsset /Game/Neo/Dances/Hip-Hop/Hip_Hop_Dancing_PhysicsAsset.Hip_Hop_Dancing_PhysicsAsset]
+[2024.01.27-00.04.53:676][266]OBJ SavePackage: Finished generating thumbnails for package [/Game/Neo/Dances/Hip-Hop/Hip_Hop_Dancing_PhysicsAsset]
+[2024.01.27-00.04.53:679][266]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Neo/Dances/Hip-Hop/Hip_Hop_Dancing_PhysicsAsset_Auto2
+[2024.01.27-00.04.53:679][266]LogSavePackage: Moving 'C:/Users/neoha/Documents/GitHub/GGJ-24-Project/GlobalGameJam2024/Saved/Hip_Hop_Dancing_PhysicsAsset_AutD36FB2AC49D3EBD55690268CCB072082.tmp' to 'C:/Users/neoha/Documents/GitHub/GGJ-24-Project/GlobalGameJam2024/Saved/Autosaves/Game/Neo/Dances/Hip-Hop/Hip_Hop_Dancing_PhysicsAsset_Auto2.uasset'
+[2024.01.27-00.04.53:680][266]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Neo/Dances/Samba/Samba_Dancing] ([1] browsable assets)...
+[2024.01.27-00.04.53:686][266]OBJ SavePackage:     Rendered thumbnail for [SkeletalMesh /Game/Neo/Dances/Samba/Samba_Dancing.Samba_Dancing]
+[2024.01.27-00.04.53:686][266]OBJ SavePackage: Finished generating thumbnails for package [/Game/Neo/Dances/Samba/Samba_Dancing]
+[2024.01.27-00.04.53:691][266]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Neo/Dances/Samba/Samba_Dancing_Auto2
+[2024.01.27-00.04.53:691][266]LogSavePackage: Moving 'C:/Users/neoha/Documents/GitHub/GGJ-24-Project/GlobalGameJam2024/Saved/Samba_Dancing_Auto21D3435F245AC2391FB7AB8A2873AE235.tmp' to 'C:/Users/neoha/Documents/GitHub/GGJ-24-Project/GlobalGameJam2024/Saved/Autosaves/Game/Neo/Dances/Samba/Samba_Dancing_Auto2.uasset'
+[2024.01.27-00.04.53:692][266]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Neo/Dances/Samba/Samba_Dancing_Skeleton] ([1] browsable assets)...
+[2024.01.27-00.04.53:700][266]OBJ SavePackage:     Rendered thumbnail for [Skeleton /Game/Neo/Dances/Samba/Samba_Dancing_Skeleton.Samba_Dancing_Skeleton]
+[2024.01.27-00.04.53:700][266]OBJ SavePackage: Finished generating thumbnails for package [/Game/Neo/Dances/Samba/Samba_Dancing_Skeleton]
+[2024.01.27-00.04.53:702][266]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Neo/Dances/Samba/Samba_Dancing_Skeleton_Auto2
+[2024.01.27-00.04.53:702][266]LogSavePackage: Moving 'C:/Users/neoha/Documents/GitHub/GGJ-24-Project/GlobalGameJam2024/Saved/Samba_Dancing_Skeleton_Auto2E7ED2AF24D9CF3CFB1555B87AE29702D.tmp' to 'C:/Users/neoha/Documents/GitHub/GGJ-24-Project/GlobalGameJam2024/Saved/Autosaves/Game/Neo/Dances/Samba/Samba_Dancing_Skeleton_Auto2.uasset'
+[2024.01.27-00.04.53:703][266]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Neo/Dances/Samba/Samba_Dancing_PhysicsAsset] ([1] browsable assets)...
+[2024.01.27-00.04.53:710][266]OBJ SavePackage:     Rendered thumbnail for [PhysicsAsset /Game/Neo/Dances/Samba/Samba_Dancing_PhysicsAsset.Samba_Dancing_PhysicsAsset]
+[2024.01.27-00.04.53:710][266]OBJ SavePackage: Finished generating thumbnails for package [/Game/Neo/Dances/Samba/Samba_Dancing_PhysicsAsset]
+[2024.01.27-00.04.53:712][266]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Neo/Dances/Samba/Samba_Dancing_PhysicsAsset_Auto2
+[2024.01.27-00.04.53:712][266]LogSavePackage: Moving 'C:/Users/neoha/Documents/GitHub/GGJ-24-Project/GlobalGameJam2024/Saved/Samba_Dancing_PhysicsAsset_Auto25930C0AD4326C3A632D8049C8EA4379D.tmp' to 'C:/Users/neoha/Documents/GitHub/GGJ-24-Project/GlobalGameJam2024/Saved/Autosaves/Game/Neo/Dances/Samba/Samba_Dancing_PhysicsAsset_Auto2.uasset'
+[2024.01.27-00.04.53:713][266]LogFileHelpers: Auto-saving content packages took 0.097
+[2024.01.27-00.08.15:005][ 27]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2024.01.27-00.08.17:444][287]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.01.27-00.08.17:449][287]LogWorldPartition: Display: GenerateStreaming started...
+[2024.01.27-00.08.17:449][287]LogWorldPartition: Display: GetPartitionedActors started...
+[2024.01.27-00.08.17:449][287]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2024.01.27-00.08.17:449][287]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2024.01.27-00.08.17:449][287]LogWorldPartition: Display: ValidateSingleActorReferer took 0 us
+[2024.01.27-00.08.17:449][287]LogWorldPartition: Display: GetPartitionedActors took 59 us
+[2024.01.27-00.08.17:450][287]LogWorldPartition: Display: GenerateStreaming took 336 us
+[2024.01.27-00.08.17:450][287]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.01.27-00.08.17:450][287]PIE: New page: PIE session: FirstPersonMap (27 Jan 2024, 00:08:17)
+[2024.01.27-00.08.17:450][287]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2024.01.27-00.08.17:455][287]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2024.01.27-00.08.17:455][287]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005145s)
+[2024.01.27-00.08.17:455][287]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.005212s)
+[2024.01.27-00.08.17:455][287]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.27-00.08.17:456][287]LogAIModule: Creating AISystem for world FirstPersonMap
+[2024.01.27-00.08.17:456][287]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.01.27-00.08.17:456][287]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2024.01.27-00.08.17:457][287]LogWorldPartition: Display: WorldPartition initialize took 1 ms
+[2024.01.27-00.08.17:457][287]LogPlayLevel: PIE: World Init took: (0.002056s)
+[2024.01.27-00.08.17:463][287]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2024.01.27-00.08.17:464][287]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2024.01.27-00.08.17:464][287]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.01.27-00.08.17:464][287]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.01.27-00.08.17:464][287]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.01.27-00.08.17:464][287]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.01.27-00.08.17:464][287]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.01.27-00.08.17:464][287]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.01.27-00.08.17:464][287]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.01.27-00.08.17:464][287]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.01.27-00.08.17:465][287]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.01.27-00.08.17:465][287]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.01.27-00.08.17:465][287]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.01.27-00.08.17:466][287]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.01.27-00.08.17:490][287]LogAudioMixer: Display: Using Audio Hardware Device Speakers (HyperX Cloud Revolver S)
+[2024.01.27-00.08.17:490][287]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.01.27-00.08.17:490][287]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.01.27-00.08.17:490][287]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.01.27-00.08.17:491][287]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2024.01.27-00.08.17:491][287]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2024.01.27-00.08.17:492][287]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2024.01.27-00.08.17:492][287]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2024.01.27-00.08.17:492][287]LogInit: FAudioDevice initialized.
+[2024.01.27-00.08.17:492][287]LogAudio: Display: Audio Device (ID: 4) registered with world 'FirstPersonMap'.
+[2024.01.27-00.08.17:505][287]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2024.01.27-00.08.17:508][287]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2024.01.27-00.08.17
+[2024.01.27-00.08.17:508][287]LogWorld: Bringing up level for play took: 0.003211
+[2024.01.27-00.08.17:510][287]LogOnline: OSS: Created online subsystem instance for: :Context_33
+[2024.01.27-00.08.17:511][287]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=900.000 Y=850.000 Z=98.337
+[2024.01.27-00.08.17:511][287]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2024.01.27-00.08.17:512][287]PIE: Server logged in
+[2024.01.27-00.08.17:512][287]PIE: Play in editor total start time 0.065 seconds.
+[2024.01.27-00.08.23:597][996]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.27-00.08.23:597][996]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2024.01.27-00.08.23:597][996]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.01.27-00.08.23:597][996]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.27-00.08.23:604][996]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.01.27-00.08.23:606][996]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.27-00.08.23:612][996]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.27-00.08.23:612][996]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2024.01.27-00.08.23:614][996]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2024.01.27-00.08.23:619][996]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2024.01.27-00.08.23:671][997]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2024.01.27-00.08.23:677][998]LogPlayLevel: Display: Destroying online subsystem :Context_33
+[2024.01.27-00.10.42:056][210]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2024.01.27-00.10.42:077][210]LogContentBrowser: Creating deferred item: NewFolder
+[2024.01.27-00.10.42:085][211]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2024.01.27-00.10.46:509][721]LogContentBrowser: Attempting asset rename: NewFolder -> StepHip-Hop
+[2024.01.27-00.10.46:509][721]LogContentBrowser: End creating deferred item NewFolder
+[2024.01.27-00.10.50:741][967]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\neoha\Downloads\Step Hip Hop Dance.fbx)
+[2024.01.27-00.10.50:758][967]LogFbx: Loading FBX Scene from C:\Users\neoha\Downloads\Step Hip Hop Dance.fbx
+[2024.01.27-00.10.50:775][967]LogFbx: FBX Scene Loaded Succesfully
+[2024.01.27-00.10.51:811][967]LogSlate: Window 'FBX Import Options' being destroyed
+[2024.01.27-00.10.51:837][967]LogFbx: Valid bind pose for Pose (BindPose) - Zombie
+[2024.01.27-00.10.51:838][967]LogMaterial: Display: Material /Game/Neo/Dances/StepHip-Hop/zombie1.zombie1 needed to have new flag set bUsedWithSkeletalMesh !
+[2024.01.27-00.10.51:841][967]LogMaterial: Display: Missing cached shadermap for zombie1 in PCD3D_SM5, Default, SM5 (DDC key hash: 72F141CCF27D88888119AB5FE7BBB3B49E737930), compiling. 
+[2024.01.27-00.10.51:890][967]LogFbxMaterialImport: Display: Unable to find Texture file C:\Users\neoha\Desktop\zoooooooooooooooooooooooooooooombie.fbm
+[2024.01.27-00.10.51:893][967]LogMaterial: Display: Missing cached shadermap for zombie1 in PCD3D_SM5, Default, SM5 (DDC key hash: E2823E0B3B9B46E0E1E39DCA2ED8E7C21198F56B), compiling. 
+[2024.01.27-00.10.51:896][967]LogFbx: Warning: Bones digested - 33  Depth of hierarchy - 12
+[2024.01.27-00.10.51:900][967]LogSkeletalMesh: Section 0: Material=0, 290 triangles
+[2024.01.27-00.10.51:907][967]LogSkeletalMesh: Building Skeletal Mesh Step_Hip_Hop_Dance...
+[2024.01.27-00.10.51:907][967]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/Neo/Dances/StepHip-Hop/Step_Hip_Hop_Dance.Step_Hip_Hop_Dance
+[2024.01.27-00.10.51:908][967]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.27-00.10.51:937][967]LogWorld: UWorld::CleanupWorld for World_30, bSessionEnded=true, bCleanupResources=true
+[2024.01.27-00.10.51:937][967]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.27-00.10.51:939][967]LogFbx: SortedLinks :(0) Hips
+[2024.01.27-00.10.51:939][967]LogFbx: SortedLinks :(1) Spine
+[2024.01.27-00.10.51:939][967]LogFbx: SortedLinks :(2) Spine1
+[2024.01.27-00.10.51:939][967]LogFbx: SortedLinks :(3) Spine2
+[2024.01.27-00.10.51:939][967]LogFbx: SortedLinks :(4) Neck
+[2024.01.27-00.10.51:939][967]LogFbx: SortedLinks :(5) Head
+[2024.01.27-00.10.51:939][967]LogFbx: SortedLinks :(6) HeadTop_End
+[2024.01.27-00.10.51:939][967]LogFbx: SortedLinks :(7) LeftShoulder
+[2024.01.27-00.10.51:939][967]LogFbx: SortedLinks :(8) LeftArm
+[2024.01.27-00.10.51:939][967]LogFbx: SortedLinks :(9) LeftForeArm
+[2024.01.27-00.10.51:939][967]LogFbx: SortedLinks :(10) LeftHand
+[2024.01.27-00.10.51:939][967]LogFbx: SortedLinks :(11) LeftHandIndex1
+[2024.01.27-00.10.51:939][967]LogFbx: SortedLinks :(12) LeftHandIndex2
+[2024.01.27-00.10.51:939][967]LogFbx: SortedLinks :(13) LeftHandIndex3
+[2024.01.27-00.10.51:939][967]LogFbx: SortedLinks :(14) LeftHandIndex4
+[2024.01.27-00.10.51:939][967]LogFbx: SortedLinks :(15) RightShoulder
+[2024.01.27-00.10.51:939][967]LogFbx: SortedLinks :(16) RightArm
+[2024.01.27-00.10.51:939][967]LogFbx: SortedLinks :(17) RightForeArm
+[2024.01.27-00.10.51:939][967]LogFbx: SortedLinks :(18) RightHand
+[2024.01.27-00.10.51:939][967]LogFbx: SortedLinks :(19) RightHandIndex1
+[2024.01.27-00.10.51:939][967]LogFbx: SortedLinks :(20) RightHandIndex2
+[2024.01.27-00.10.51:939][967]LogFbx: SortedLinks :(21) RightHandIndex3
+[2024.01.27-00.10.51:939][967]LogFbx: SortedLinks :(22) RightHandIndex4
+[2024.01.27-00.10.51:939][967]LogFbx: SortedLinks :(23) LeftUpLeg
+[2024.01.27-00.10.51:939][967]LogFbx: SortedLinks :(24) LeftLeg
+[2024.01.27-00.10.51:939][967]LogFbx: SortedLinks :(25) LeftFoot
+[2024.01.27-00.10.51:939][967]LogFbx: SortedLinks :(26) LeftToeBase
+[2024.01.27-00.10.51:939][967]LogFbx: SortedLinks :(27) LeftToe_End
+[2024.01.27-00.10.51:939][967]LogFbx: SortedLinks :(28) RightUpLeg
+[2024.01.27-00.10.51:939][967]LogFbx: SortedLinks :(29) RightLeg
+[2024.01.27-00.10.51:939][967]LogFbx: SortedLinks :(30) RightFoot
+[2024.01.27-00.10.51:939][967]LogFbx: SortedLinks :(31) RightToeBase
+[2024.01.27-00.10.51:940][967]LogFbx: SortedLinks :(32) RightToe_End
+[2024.01.27-00.10.51:940][967]LogFbx: Parsing AnimStack mixamo.com
+[2024.01.27-00.10.52:176][967]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Neo/Dances/StepHip-Hop/Step_Hip_Hop_Dance_Anim.Step_Hip_Hop_Dance_Anim
+[2024.01.27-00.10.52:180][967]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2024.01.27-00.10.52:313][970]LogShaderCompilers: Display: ================================================
+[2024.01.27-00.10.52:313][970]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.01.27-00.10.52:313][970]LogShaderCompilers: Display: Total job queries 763, among them cache hits 325 (42.60%)
+[2024.01.27-00.10.52:313][970]LogShaderCompilers: Display: Tracking 82 distinct input hashes that result in 22 distinct outputs (26.83%)
+[2024.01.27-00.10.52:314][970]LogShaderCompilers: Display: RAM used: 0.05 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.00%
+[2024.01.27-00.10.52:314][970]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.01.27-00.10.52:314][970]LogShaderCompilers: Display: Shaders Compiled: 344
+[2024.01.27-00.10.52:314][970]LogShaderCompilers: Display: Jobs assigned 82, completed 82 (100.00%)
+[2024.01.27-00.10.52:314][970]LogShaderCompilers: Display: Average time worker was idle: 52.82 s
+[2024.01.27-00.10.52:314][970]LogShaderCompilers: Display: Time job spent in pending queue: average 0.31 s, longest 2.24 s
+[2024.01.27-00.10.52:314][970]LogShaderCompilers: Display: Job execution time: average 0.83 s, max 1.69 s
+[2024.01.27-00.10.52:314][970]LogShaderCompilers: Display: Job life time (pending + execution): average 1.14 s, max 3.09
+[2024.01.27-00.10.52:314][970]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 16.86 s
+[2024.01.27-00.10.52:314][970]LogShaderCompilers: Display: Jobs were issued in 82 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.01.27-00.10.52:314][970]LogShaderCompilers: Display: Average processing rate: 4.86 jobs/sec
+[2024.01.27-00.10.52:314][970]LogShaderCompilers: Display: Effective parallelization: 2.99 (times faster than compiling all shaders on one thread). Compare with number of workers: 10
+[2024.01.27-00.10.52:314][970]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.01.27-00.10.52:314][970]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled    2 times, average 1.01 sec, max 1.10 sec, min 0.92 sec)
+[2024.01.27-00.10.52:314][970]LogShaderCompilers: Display:      TBasePassVSFPrecomputedVolumetricLightmapLightingPolicy (compiled    2 times, average 0.98 sec, max 1.10 sec, min 0.86 sec)
+[2024.01.27-00.10.52:314][970]LogShaderCompilers: Display:                TBasePassVSFCachedPointIndirectLightingPolicy (compiled    2 times, average 0.97 sec, max 1.08 sec, min 0.86 sec)
+[2024.01.27-00.10.52:314][970]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight (compiled    2 times, average 0.97 sec, max 1.01 sec, min 0.93 sec)
+[2024.01.27-00.10.52:314][970]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy (compiled    2 times, average 0.94 sec, max 1.05 sec, min 0.84 sec)
+[2024.01.27-00.10.52:314][970]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.01.27-00.10.52:314][970]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 19.18% of total time (compiled   16 times, average 0.60 sec, max 0.69 sec, min 0.51 sec)
+[2024.01.27-00.10.52:314][970]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 17.70% of total time (compiled   16 times, average 0.56 sec, max 0.65 sec, min 0.42 sec)
+[2024.01.27-00.10.52:314][970]LogShaderCompilers: Display:                                                 FLumenCardVS - 16.33% of total time (compiled   13 times, average 0.63 sec, max 1.00 sec, min 0.53 sec)
+[2024.01.27-00.10.52:314][970]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 6.47% of total time (compiled   13 times, average 0.25 sec, max 0.30 sec, min 0.23 sec)
+[2024.01.27-00.10.52:314][970]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight - 4.00% of total time (compiled    2 times, average 1.01 sec, max 1.10 sec, min 0.92 sec)
+[2024.01.27-00.10.52:314][970]LogShaderCompilers: Display: ================================================
+[2024.01.27-00.10.53:605][ 61]LogSlate: Window 'Message Log' being destroyed
+[2024.01.27-00.10.53:632][ 61]LogSlate: Window 'Message Log' being destroyed
+[2024.01.27-00.10.54:201][108]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Neo/Dances/StepHip-Hop/zombie1.zombie1
+[2024.01.27-00.10.54:202][108]LogMaterial: Display: Missing cached shadermap for Preview:PreviewMaterial_4 in PCD3D_SM5, Default, SM5 (DDC key hash: D5CEEA423C4087D85B2B614CBAF7BE87F520937A), compiling. 
+[2024.01.27-00.10.54:227][108]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.27-00.10.54:296][108]LogMaterial: Display: Missing cached shadermap for Preview:PreviewMaterial_4 in PCD3D_SM5, Default, SM5 (DDC key hash: 2F0A3CA3365E59550B312C2F85292D94065EC547), compiling. 
+[2024.01.27-00.10.54:299][108]LogMaterial: Display: Missing cached shadermap for Preview:PreviewMaterial_4 in PCD3D_SM5, Default, SM5 (DDC key hash: FC66EE7E49A107BCC01867E5BB2CF584C3240D50), compiling. 
+[2024.01.27-00.10.54:301][108]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 14EAD47E09A21D88C49CBA22C60ED6B5EDBB9F08), compiling. 
+[2024.01.27-00.10.54:315][108]MaterialEditorStats: Texture samplers: 0/16
+[2024.01.27-00.10.54:315][108]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.01.27-00.10.54:315][108]MaterialEditorStats: Shader Count: 0
+[2024.01.27-00.10.54:321][108]LogViewport: Scene viewport resized to 242x267, mode Windowed.
+[2024.01.27-00.10.55:293][160]MaterialEditorStats: Texture samplers: 2/16
+[2024.01.27-00.10.55:293][160]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.01.27-00.10.55:293][160]MaterialEditorStats: Shader Count: 4
+[2024.01.27-00.10.58:252][328]LogMaterial: Display: Missing cached shadermap for Preview:PreviewMaterial_4 in PCD3D_SM5, Default, SM5 (DDC key hash: 8DE1F2E72FA64BDD0AE5ADC5F18BB969BC7C6829), compiling. 
+[2024.01.27-00.10.58:254][328]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: B2DDFCFC2D3F01D77939F76F979E2E98EE91EB78), compiling. 
+[2024.01.27-00.10.58:255][328]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 8BA598216F29B1D6E03E761CE5EA8ECAC23CEB88), compiling. 
+[2024.01.27-00.10.58:257][328]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 15BFB4FCF214B45C5BD2B841F3C10161AD3D7194), compiling. 
+[2024.01.27-00.10.58:260][328]MaterialEditorStats: Texture samplers: 0/16
+[2024.01.27-00.10.58:260][328]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.01.27-00.10.58:260][328]MaterialEditorStats: Shader Count: 0
+[2024.01.27-00.10.58:300][330]MaterialEditorStats: Texture samplers: 2/16
+[2024.01.27-00.10.58:300][330]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.01.27-00.10.58:300][330]MaterialEditorStats: Shader Count: 4
+[2024.01.27-00.10.59:321][376]LogMaterial: Display: Missing cached shadermap for Preview:PreviewMaterial_4 in PCD3D_SM5, Default, SM5 (DDC key hash: 29831E8FBE52712D1C1E1FF19CAC0DB1EC8E725D), compiling. 
+[2024.01.27-00.10.59:323][376]MaterialEditorStats: Texture samplers: 0/16
+[2024.01.27-00.10.59:324][376]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.01.27-00.10.59:324][376]MaterialEditorStats: Shader Count: 0
+[2024.01.27-00.11.00:037][413]MaterialEditorStats: Texture samplers: 2/16
+[2024.01.27-00.11.00:037][413]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.01.27-00.11.00:037][413]MaterialEditorStats: Shader Count: 2
+[2024.01.27-00.11.01:754][491]LogMaterial: Display: Missing cached shadermap for Preview:PreviewMaterial_4 in PCD3D_SM5, Default, SM5 (DDC key hash: AD6BBBA9FE0AE6BED7822688372FDC94DB9BCCBD), compiling. 
+[2024.01.27-00.11.01:756][491]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 31312ACD4122E40606AB88F87CE4DAC7C57EA912), compiling. 
+[2024.01.27-00.11.01:760][491]MaterialEditorStats: Texture samplers: 0/16
+[2024.01.27-00.11.01:760][491]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.01.27-00.11.01:760][491]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.01.27-00.11.01:760][491]MaterialEditorStats: Shader Count: 0
+[2024.01.27-00.11.02:115][511]MaterialEditorStats: Texture samplers: 1/16
+[2024.01.27-00.11.02:115][511]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.01.27-00.11.02:115][511]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.01.27-00.11.02:115][511]MaterialEditorStats: Shader Count: 1
+[2024.01.27-00.11.03:246][525]LogSlate: Window 'Message' being destroyed
+[2024.01.27-00.11.03:255][525]Message dialog closed, result: Yes, title: Message, text: Would you like to apply the changes of the modified material to the original material?
+/Game/Neo/Dances/StepHip-Hop/zombie1.zombie1
+(Selecting 'No' will cause all changes to be lost!)
+[2024.01.27-00.11.03:635][525]LogMaterial: Display: Missing cached shadermap for Preview:PreviewMaterial_4 in PCD3D_SM5, Default, SM5 (DDC key hash: F7B811C22DB40F451FB369248BC00EA8963CC099), compiling. 
+[2024.01.27-00.11.03:644][525]LogMaterial: Display: Missing cached shadermap for zombie1 in PCD3D_SM5, Default, SM5 (DDC key hash: 6B38EB39DCF3D819FBA1EB63BBA929AD2696C33B), compiling. 
+[2024.01.27-00.11.03:680][525]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2024.01.27-00.11.03:830][525]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2024.01.27-00.11.03:850][525]LogSlate: Window 'zombie1' being destroyed
+[2024.01.27-00.11.03:854][525]LogSlate: Window 'zombie1' being destroyed
+[2024.01.27-00.11.03:858][525]LogWorld: UWorld::CleanupWorld for World_33, bSessionEnded=true, bCleanupResources=true
+[2024.01.27-00.11.03:858][525]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.27-00.11.33:303][  5]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2024.01.27-00.11.33:325][  5]LogContentBrowser: Creating deferred item: NewFolder
+[2024.01.27-00.11.33:331][  6]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2024.01.27-00.11.36:015][326]LogContentBrowser: Attempting asset rename: NewFolder -> GangnamStyle
+[2024.01.27-00.11.36:016][326]LogContentBrowser: End creating deferred item NewFolder
+[2024.01.27-00.11.39:735][545]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\neoha\Downloads\Gangnam Style.fbx)
+[2024.01.27-00.11.39:752][545]LogFbx: Loading FBX Scene from C:\Users\neoha\Downloads\Gangnam Style.fbx
+[2024.01.27-00.11.39:773][545]LogFbx: FBX Scene Loaded Succesfully
+[2024.01.27-00.11.40:775][545]LogSlate: Window 'FBX Import Options' being destroyed
+[2024.01.27-00.11.40:797][545]LogFbx: Valid bind pose for Pose (BindPose) - Zombie
+[2024.01.27-00.11.40:798][545]LogMaterial: Display: Material /Game/Neo/Dances/GangnamStyle/zombie1.zombie1 needed to have new flag set bUsedWithSkeletalMesh !
+[2024.01.27-00.11.40:801][545]LogMaterial: Display: Missing cached shadermap for zombie1 in PCD3D_SM5, Default, SM5 (DDC key hash: C13B2E2860BB52272568F6B4CBA9E34240428403), compiling. 
+[2024.01.27-00.11.40:849][545]LogFbxMaterialImport: Display: Unable to find Texture file C:\Users\neoha\Desktop\zoooooooooooooooooooooooooooooombie.fbm
+[2024.01.27-00.11.40:852][545]LogMaterial: Display: Missing cached shadermap for zombie1 in PCD3D_SM5, Default, SM5 (DDC key hash: D28186EB02D7E3DC049280DAB4DDFFA78853234F), compiling. 
+[2024.01.27-00.11.40:855][545]LogFbx: Warning: Bones digested - 33  Depth of hierarchy - 12
+[2024.01.27-00.11.40:859][545]LogSkeletalMesh: Section 0: Material=0, 290 triangles
+[2024.01.27-00.11.40:866][545]LogSkeletalMesh: Building Skeletal Mesh Gangnam_Style...
+[2024.01.27-00.11.40:866][545]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/Neo/Dances/GangnamStyle/Gangnam_Style.Gangnam_Style
+[2024.01.27-00.11.40:867][545]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.27-00.11.40:872][545]LogWorld: UWorld::CleanupWorld for World_34, bSessionEnded=true, bCleanupResources=true
+[2024.01.27-00.11.40:872][545]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.27-00.11.40:874][545]LogFbx: SortedLinks :(0) Hips
+[2024.01.27-00.11.40:874][545]LogFbx: SortedLinks :(1) Spine
+[2024.01.27-00.11.40:874][545]LogFbx: SortedLinks :(2) Spine1
+[2024.01.27-00.11.40:874][545]LogFbx: SortedLinks :(3) Spine2
+[2024.01.27-00.11.40:874][545]LogFbx: SortedLinks :(4) Neck
+[2024.01.27-00.11.40:874][545]LogFbx: SortedLinks :(5) Head
+[2024.01.27-00.11.40:874][545]LogFbx: SortedLinks :(6) HeadTop_End
+[2024.01.27-00.11.40:874][545]LogFbx: SortedLinks :(7) LeftShoulder
+[2024.01.27-00.11.40:875][545]LogFbx: SortedLinks :(8) LeftArm
+[2024.01.27-00.11.40:875][545]LogFbx: SortedLinks :(9) LeftForeArm
+[2024.01.27-00.11.40:875][545]LogFbx: SortedLinks :(10) LeftHand
+[2024.01.27-00.11.40:875][545]LogFbx: SortedLinks :(11) LeftHandIndex1
+[2024.01.27-00.11.40:875][545]LogFbx: SortedLinks :(12) LeftHandIndex2
+[2024.01.27-00.11.40:875][545]LogFbx: SortedLinks :(13) LeftHandIndex3
+[2024.01.27-00.11.40:875][545]LogFbx: SortedLinks :(14) LeftHandIndex4
+[2024.01.27-00.11.40:875][545]LogFbx: SortedLinks :(15) RightShoulder
+[2024.01.27-00.11.40:875][545]LogFbx: SortedLinks :(16) RightArm
+[2024.01.27-00.11.40:875][545]LogFbx: SortedLinks :(17) RightForeArm
+[2024.01.27-00.11.40:875][545]LogFbx: SortedLinks :(18) RightHand
+[2024.01.27-00.11.40:875][545]LogFbx: SortedLinks :(19) RightHandIndex1
+[2024.01.27-00.11.40:875][545]LogFbx: SortedLinks :(20) RightHandIndex2
+[2024.01.27-00.11.40:875][545]LogFbx: SortedLinks :(21) RightHandIndex3
+[2024.01.27-00.11.40:875][545]LogFbx: SortedLinks :(22) RightHandIndex4
+[2024.01.27-00.11.40:875][545]LogFbx: SortedLinks :(23) LeftUpLeg
+[2024.01.27-00.11.40:875][545]LogFbx: SortedLinks :(24) LeftLeg
+[2024.01.27-00.11.40:875][545]LogFbx: SortedLinks :(25) LeftFoot
+[2024.01.27-00.11.40:875][545]LogFbx: SortedLinks :(26) LeftToeBase
+[2024.01.27-00.11.40:875][545]LogFbx: SortedLinks :(27) LeftToe_End
+[2024.01.27-00.11.40:875][545]LogFbx: SortedLinks :(28) RightUpLeg
+[2024.01.27-00.11.40:875][545]LogFbx: SortedLinks :(29) RightLeg
+[2024.01.27-00.11.40:875][545]LogFbx: SortedLinks :(30) RightFoot
+[2024.01.27-00.11.40:875][545]LogFbx: SortedLinks :(31) RightToeBase
+[2024.01.27-00.11.40:875][545]LogFbx: SortedLinks :(32) RightToe_End
+[2024.01.27-00.11.40:875][545]LogFbx: Parsing AnimStack mixamo.com
+[2024.01.27-00.11.41:238][545]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Neo/Dances/GangnamStyle/Gangnam_Style_Anim.Gangnam_Style_Anim
+[2024.01.27-00.11.41:240][545]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2024.01.27-00.11.42:824][650]LogSlate: Window 'Message Log' being destroyed
+[2024.01.27-00.11.42:856][650]LogSlate: Window 'Message Log' being destroyed
+[2024.01.27-00.11.43:650][709]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Neo/Dances/GangnamStyle/zombie1.zombie1
+[2024.01.27-00.11.43:652][709]LogMaterial: Display: Missing cached shadermap for Preview:PreviewMaterial_5 in PCD3D_SM5, Default, SM5 (DDC key hash: E7500B7775042E3574A814797EAD9DD64FEE3385), compiling. 
+[2024.01.27-00.11.43:676][709]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.27-00.11.43:740][709]LogMaterial: Display: Missing cached shadermap for Preview:PreviewMaterial_5 in PCD3D_SM5, Default, SM5 (DDC key hash: 7E42DB0BD2DD568D5C61A7C59AFC40865AE39B33), compiling. 
+[2024.01.27-00.11.43:743][709]LogMaterial: Display: Missing cached shadermap for Preview:PreviewMaterial_5 in PCD3D_SM5, Default, SM5 (DDC key hash: FD7E4CD03FE374FD35F06EC081D561C8A97634C6), compiling. 
+[2024.01.27-00.11.43:745][709]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_0 in PCD3D_SM5, Default, SM5 (DDC key hash: A21483924004704B8314D0ED9399B7A90DBF8814), compiling. 
+[2024.01.27-00.11.43:758][709]MaterialEditorStats: Texture samplers: 0/16
+[2024.01.27-00.11.43:758][709]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.01.27-00.11.43:758][709]MaterialEditorStats: Shader Count: 0
+[2024.01.27-00.11.43:764][709]LogViewport: Scene viewport resized to 242x267, mode Windowed.
+[2024.01.27-00.11.44:699][752]MaterialEditorStats: Texture samplers: 2/16
+[2024.01.27-00.11.44:699][752]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.01.27-00.11.44:699][752]MaterialEditorStats: Shader Count: 4
+[2024.01.27-00.11.45:551][791]LogMaterial: Display: Missing cached shadermap for Preview:PreviewMaterial_5 in PCD3D_SM5, Default, SM5 (DDC key hash: E1F30E454F77FA64C7B2734570AC39B4FEA61A8B), compiling. 
+[2024.01.27-00.11.45:553][791]MaterialEditorStats: Texture samplers: 0/16
+[2024.01.27-00.11.45:553][791]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.01.27-00.11.45:553][791]MaterialEditorStats: Shader Count: 0
+[2024.01.27-00.11.46:296][837]MaterialEditorStats: Texture samplers: 2/16
+[2024.01.27-00.11.46:296][837]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.01.27-00.11.46:296][837]MaterialEditorStats: Shader Count: 2
+[2024.01.27-00.11.47:805][910]LogMaterial: Display: Missing cached shadermap for Preview:PreviewMaterial_5 in PCD3D_SM5, Default, SM5 (DDC key hash: 07E9510DA116FE5FC3D31E04F5FC25FB28A78C1A), compiling. 
+[2024.01.27-00.11.47:806][910]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 7E95D83F6C3D923DD99238E9136ECD562862AAFF), compiling. 
+[2024.01.27-00.11.47:808][910]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 99F2C0CE3CBAC994612D1AB99C1F0BAC8A1B2310), compiling. 
+[2024.01.27-00.11.47:811][910]MaterialEditorStats: Texture samplers: 0/16
+[2024.01.27-00.11.47:811][910]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.01.27-00.11.47:811][910]MaterialEditorStats: Shader Count: 0
+[2024.01.27-00.11.47:849][912]MaterialEditorStats: Texture samplers: 2/16
+[2024.01.27-00.11.47:849][912]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.01.27-00.11.47:849][912]MaterialEditorStats: Shader Count: 4
+[2024.01.27-00.11.49:953][ 15]LogMaterial: Display: Missing cached shadermap for Preview:PreviewMaterial_5 in PCD3D_SM5, Default, SM5 (DDC key hash: CEC28A2AB0A690272B60A1177B68EEB028D95240), compiling. 
+[2024.01.27-00.11.49:955][ 15]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 70B888D4146CFAE127A64A85A85C713867FCD4DE), compiling. 
+[2024.01.27-00.11.49:959][ 15]MaterialEditorStats: Texture samplers: 0/16
+[2024.01.27-00.11.49:959][ 15]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.01.27-00.11.49:959][ 15]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.01.27-00.11.49:959][ 15]MaterialEditorStats: Shader Count: 0
+[2024.01.27-00.11.50:397][ 41]MaterialEditorStats: Texture samplers: 1/16
+[2024.01.27-00.11.50:397][ 41]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.01.27-00.11.50:397][ 41]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.01.27-00.11.50:397][ 41]MaterialEditorStats: Shader Count: 1
+[2024.01.27-00.11.50:798][ 60]MaterialEditorStats: Texture samplers: 3/16
+[2024.01.27-00.11.50:798][ 60]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.01.27-00.11.50:798][ 60]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.01.27-00.11.50:798][ 60]MaterialEditorStats: Shader Count: 4
+[2024.01.27-00.11.54:716][217]LogSlate: Window 'Message' being destroyed
+[2024.01.27-00.11.54:724][217]Message dialog closed, result: Yes, title: Message, text: Would you like to apply the changes of the modified material to the original material?
+/Game/Neo/Dances/GangnamStyle/zombie1.zombie1
+(Selecting 'No' will cause all changes to be lost!)
+[2024.01.27-00.11.55:100][217]LogMaterial: Display: Missing cached shadermap for Preview:PreviewMaterial_5 in PCD3D_SM5, Default, SM5 (DDC key hash: ABCB5372F81FE7728E013C8BF9B55EA5D144644A), compiling. 
+[2024.01.27-00.11.55:109][217]LogMaterial: Display: Missing cached shadermap for zombie1 in PCD3D_SM5, Default, SM5 (DDC key hash: CDE3DC139C9B7D778A2A68DB8261F8FD9A8F264F), compiling. 
+[2024.01.27-00.11.55:144][217]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2024.01.27-00.11.55:293][217]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2024.01.27-00.11.55:307][217]LogSlate: Window 'zombie1' being destroyed
+[2024.01.27-00.11.55:310][217]LogSlate: Window 'zombie1' being destroyed
+[2024.01.27-00.11.55:314][217]LogWorld: UWorld::CleanupWorld for World_37, bSessionEnded=true, bCleanupResources=true
+[2024.01.27-00.11.55:315][217]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.27-00.15.00:218][866]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2024.01.27-00.15.00:221][866]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.010
+[2024.01.27-00.15.00:221][866]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Neo/Dances/StepHip-Hop/Step_Hip_Hop_Dance] ([1] browsable assets)...
+[2024.01.27-00.15.00:284][866]OBJ SavePackage:     Rendered thumbnail for [SkeletalMesh /Game/Neo/Dances/StepHip-Hop/Step_Hip_Hop_Dance.Step_Hip_Hop_Dance]
+[2024.01.27-00.15.00:284][866]OBJ SavePackage: Finished generating thumbnails for package [/Game/Neo/Dances/StepHip-Hop/Step_Hip_Hop_Dance]
+[2024.01.27-00.15.00:289][866]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Neo/Dances/StepHip-Hop/Step_Hip_Hop_Dance_Auto3
+[2024.01.27-00.15.00:289][866]LogSavePackage: Moving 'C:/Users/neoha/Documents/GitHub/GGJ-24-Project/GlobalGameJam2024/Saved/Step_Hip_Hop_Dance_Auto3CB2F56384D8BCD429537C983D4AB70AA.tmp' to 'C:/Users/neoha/Documents/GitHub/GGJ-24-Project/GlobalGameJam2024/Saved/Autosaves/Game/Neo/Dances/StepHip-Hop/Step_Hip_Hop_Dance_Auto3.uasset'
+[2024.01.27-00.15.00:290][866]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Neo/Dances/StepHip-Hop/Step_Hip_Hop_Dance_Skeleton] ([1] browsable assets)...
+[2024.01.27-00.15.00:306][866]OBJ SavePackage:     Rendered thumbnail for [Skeleton /Game/Neo/Dances/StepHip-Hop/Step_Hip_Hop_Dance_Skeleton.Step_Hip_Hop_Dance_Skeleton]
+[2024.01.27-00.15.00:306][866]OBJ SavePackage: Finished generating thumbnails for package [/Game/Neo/Dances/StepHip-Hop/Step_Hip_Hop_Dance_Skeleton]
+[2024.01.27-00.15.00:307][866]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Neo/Dances/StepHip-Hop/Step_Hip_Hop_Dance_Skeleton_Auto3
+[2024.01.27-00.15.00:307][866]LogSavePackage: Moving 'C:/Users/neoha/Documents/GitHub/GGJ-24-Project/GlobalGameJam2024/Saved/Step_Hip_Hop_Dance_Skeleton_AutoDACA0F4248D3680A9787B1A3AEE69B03.tmp' to 'C:/Users/neoha/Documents/GitHub/GGJ-24-Project/GlobalGameJam2024/Saved/Autosaves/Game/Neo/Dances/StepHip-Hop/Step_Hip_Hop_Dance_Skeleton_Auto3.uasset'
+[2024.01.27-00.15.00:308][866]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Neo/Dances/StepHip-Hop/Step_Hip_Hop_Dance_PhysicsAsset] ([1] browsable assets)...
+[2024.01.27-00.15.00:325][866]OBJ SavePackage:     Rendered thumbnail for [PhysicsAsset /Game/Neo/Dances/StepHip-Hop/Step_Hip_Hop_Dance_PhysicsAsset.Step_Hip_Hop_Dance_PhysicsAsset]
+[2024.01.27-00.15.00:325][866]OBJ SavePackage: Finished generating thumbnails for package [/Game/Neo/Dances/StepHip-Hop/Step_Hip_Hop_Dance_PhysicsAsset]
+[2024.01.27-00.15.00:328][866]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Neo/Dances/StepHip-Hop/Step_Hip_Hop_Dance_PhysicsAsset_Auto3
+[2024.01.27-00.15.00:328][866]LogSavePackage: Moving 'C:/Users/neoha/Documents/GitHub/GGJ-24-Project/GlobalGameJam2024/Saved/Step_Hip_Hop_Dance_PhysicsAsset_6E4BB5214B1B5E72EF692B8BA8CB8A17.tmp' to 'C:/Users/neoha/Documents/GitHub/GGJ-24-Project/GlobalGameJam2024/Saved/Autosaves/Game/Neo/Dances/StepHip-Hop/Step_Hip_Hop_Dance_PhysicsAsset_Auto3.uasset'
+[2024.01.27-00.15.00:329][866]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Neo/Dances/GangnamStyle/Gangnam_Style] ([1] browsable assets)...
+[2024.01.27-00.15.00:345][866]OBJ SavePackage:     Rendered thumbnail for [SkeletalMesh /Game/Neo/Dances/GangnamStyle/Gangnam_Style.Gangnam_Style]
+[2024.01.27-00.15.00:345][866]OBJ SavePackage: Finished generating thumbnails for package [/Game/Neo/Dances/GangnamStyle/Gangnam_Style]
+[2024.01.27-00.15.00:350][866]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Neo/Dances/GangnamStyle/Gangnam_Style_Auto3
+[2024.01.27-00.15.00:350][866]LogSavePackage: Moving 'C:/Users/neoha/Documents/GitHub/GGJ-24-Project/GlobalGameJam2024/Saved/Gangnam_Style_Auto3AFB7A0EB45AC91F266BF7DBE352D4B29.tmp' to 'C:/Users/neoha/Documents/GitHub/GGJ-24-Project/GlobalGameJam2024/Saved/Autosaves/Game/Neo/Dances/GangnamStyle/Gangnam_Style_Auto3.uasset'
+[2024.01.27-00.15.00:351][866]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Neo/Dances/GangnamStyle/Gangnam_Style_Skeleton] ([1] browsable assets)...
+[2024.01.27-00.15.00:363][866]OBJ SavePackage:     Rendered thumbnail for [Skeleton /Game/Neo/Dances/GangnamStyle/Gangnam_Style_Skeleton.Gangnam_Style_Skeleton]
+[2024.01.27-00.15.00:363][866]OBJ SavePackage: Finished generating thumbnails for package [/Game/Neo/Dances/GangnamStyle/Gangnam_Style_Skeleton]
+[2024.01.27-00.15.00:365][866]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Neo/Dances/GangnamStyle/Gangnam_Style_Skeleton_Auto3
+[2024.01.27-00.15.00:365][866]LogSavePackage: Moving 'C:/Users/neoha/Documents/GitHub/GGJ-24-Project/GlobalGameJam2024/Saved/Gangnam_Style_Skeleton_Auto3DE8E16414AA4A126799916B470A63DB2.tmp' to 'C:/Users/neoha/Documents/GitHub/GGJ-24-Project/GlobalGameJam2024/Saved/Autosaves/Game/Neo/Dances/GangnamStyle/Gangnam_Style_Skeleton_Auto3.uasset'
+[2024.01.27-00.15.00:366][866]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Neo/Dances/GangnamStyle/Gangnam_Style_PhysicsAsset] ([1] browsable assets)...
+[2024.01.27-00.15.00:379][866]OBJ SavePackage:     Rendered thumbnail for [PhysicsAsset /Game/Neo/Dances/GangnamStyle/Gangnam_Style_PhysicsAsset.Gangnam_Style_PhysicsAsset]
+[2024.01.27-00.15.00:379][866]OBJ SavePackage: Finished generating thumbnails for package [/Game/Neo/Dances/GangnamStyle/Gangnam_Style_PhysicsAsset]
+[2024.01.27-00.15.00:381][866]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Neo/Dances/GangnamStyle/Gangnam_Style_PhysicsAsset_Auto3
+[2024.01.27-00.15.00:382][866]LogSavePackage: Moving 'C:/Users/neoha/Documents/GitHub/GGJ-24-Project/GlobalGameJam2024/Saved/Gangnam_Style_PhysicsAsset_Auto31DAC879043C3E40568D4158C2548F87D.tmp' to 'C:/Users/neoha/Documents/GitHub/GGJ-24-Project/GlobalGameJam2024/Saved/Autosaves/Game/Neo/Dances/GangnamStyle/Gangnam_Style_PhysicsAsset_Auto3.uasset'
+[2024.01.27-00.15.00:382][866]LogFileHelpers: Auto-saving content packages took 0.162
+[2024.01.27-00.15.00:413][866]LogShaderCompilers: Display: ================================================
+[2024.01.27-00.15.00:413][866]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.01.27-00.15.00:413][866]LogShaderCompilers: Display: Total job queries 947, among them cache hits 405 (42.77%)
+[2024.01.27-00.15.00:413][866]LogShaderCompilers: Display: Tracking 106 distinct input hashes that result in 22 distinct outputs (20.75%)
+[2024.01.27-00.15.00:413][866]LogShaderCompilers: Display: RAM used: 0.06 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.00%
+[2024.01.27-00.15.00:413][866]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.01.27-00.15.00:413][866]LogShaderCompilers: Display: Shaders Compiled: 424
+[2024.01.27-00.15.00:413][866]LogShaderCompilers: Display: Jobs assigned 106, completed 106 (100.00%)
+[2024.01.27-00.15.00:413][866]LogShaderCompilers: Display: Average time worker was idle: 76.81 s
+[2024.01.27-00.15.00:413][866]LogShaderCompilers: Display: Time job spent in pending queue: average 0.25 s, longest 2.24 s
+[2024.01.27-00.15.00:413][866]LogShaderCompilers: Display: Job execution time: average 0.79 s, max 1.69 s
+[2024.01.27-00.15.00:413][866]LogShaderCompilers: Display: Job life time (pending + execution): average 1.04 s, max 3.09
+[2024.01.27-00.15.00:413][866]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 21.72 s
+[2024.01.27-00.15.00:413][866]LogShaderCompilers: Display: Jobs were issued in 106 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.01.27-00.15.00:413][866]LogShaderCompilers: Display: Average processing rate: 4.88 jobs/sec
+[2024.01.27-00.15.00:413][866]LogShaderCompilers: Display: Effective parallelization: 2.91 (times faster than compiling all shaders on one thread). Compare with number of workers: 10
+[2024.01.27-00.15.00:413][866]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.01.27-00.15.00:413][866]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled    2 times, average 1.01 sec, max 1.10 sec, min 0.92 sec)
+[2024.01.27-00.15.00:413][866]LogShaderCompilers: Display:      TBasePassVSFPrecomputedVolumetricLightmapLightingPolicy (compiled    2 times, average 0.98 sec, max 1.10 sec, min 0.86 sec)
+[2024.01.27-00.15.00:413][866]LogShaderCompilers: Display:                TBasePassVSFCachedPointIndirectLightingPolicy (compiled    2 times, average 0.97 sec, max 1.08 sec, min 0.86 sec)
+[2024.01.27-00.15.00:413][866]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight (compiled    2 times, average 0.97 sec, max 1.01 sec, min 0.93 sec)
+[2024.01.27-00.15.00:413][866]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy (compiled    2 times, average 0.94 sec, max 1.05 sec, min 0.84 sec)
+[2024.01.27-00.15.00:413][866]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.01.27-00.15.00:413][866]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 21.47% of total time (compiled   22 times, average 0.62 sec, max 0.69 sec, min 0.51 sec)
+[2024.01.27-00.15.00:413][866]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 19.85% of total time (compiled   22 times, average 0.57 sec, max 0.65 sec, min 0.42 sec)
+[2024.01.27-00.15.00:413][866]LogShaderCompilers: Display:                                                 FLumenCardVS - 18.96% of total time (compiled   19 times, average 0.63 sec, max 1.00 sec, min 0.53 sec)
+[2024.01.27-00.15.00:413][866]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 7.51% of total time (compiled   19 times, average 0.25 sec, max 0.30 sec, min 0.23 sec)
+[2024.01.27-00.15.00:413][866]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight - 3.20% of total time (compiled    2 times, average 1.01 sec, max 1.10 sec, min 0.92 sec)
+[2024.01.27-00.15.00:413][866]LogShaderCompilers: Display: ================================================
+[2024.01.27-00.30.33:994][614]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2024.01.27-00.30.34:048][614]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/T8/74E94TO4FQNI0S78N5EGG4
+[2024.01.27-00.30.34:048][614]LogSavePackage: Moving 'C:/Users/neoha/Documents/GitHub/GGJ-24-Project/GlobalGameJam2024/Saved/74E94TO4FQNI0S78N5EGG4A471E7034153EEEC4D5C6C97AF942128.tmp' to 'C:/Users/neoha/Documents/GitHub/GGJ-24-Project/GlobalGameJam2024/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/T8/74E94TO4FQNI0S78N5EGG4.uasset'
+[2024.01.27-00.30.34:052][614]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/ZR/IRP4LGGR3NFTQBW9I600BV
+[2024.01.27-00.30.34:052][614]LogSavePackage: Moving 'C:/Users/neoha/Documents/GitHub/GGJ-24-Project/GlobalGameJam2024/Saved/IRP4LGGR3NFTQBW9I600BV815DDA224898BEBBA945FA89C815EAD5.tmp' to 'C:/Users/neoha/Documents/GitHub/GGJ-24-Project/GlobalGameJam2024/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/ZR/IRP4LGGR3NFTQBW9I600BV.uasset'
+[2024.01.27-00.30.34:054][614]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/I5/8RIGQULOPNIC0PDKCII3ZX
+[2024.01.27-00.30.34:054][614]LogSavePackage: Moving 'C:/Users/neoha/Documents/GitHub/GGJ-24-Project/GlobalGameJam2024/Saved/8RIGQULOPNIC0PDKCII3ZX06C4397145488D4D3A77A1AC8D8D4BF3.tmp' to 'C:/Users/neoha/Documents/GitHub/GGJ-24-Project/GlobalGameJam2024/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/I5/8RIGQULOPNIC0PDKCII3ZX.uasset'
+[2024.01.27-00.30.34:056][614]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/VC/B6M4FQHSHRJO0JIF8DX2KW
+[2024.01.27-00.30.34:056][614]LogSavePackage: Moving 'C:/Users/neoha/Documents/GitHub/GGJ-24-Project/GlobalGameJam2024/Saved/B6M4FQHSHRJO0JIF8DX2KW746836B149BC39CB1D07ED84BA50E6F7.tmp' to 'C:/Users/neoha/Documents/GitHub/GGJ-24-Project/GlobalGameJam2024/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/VC/B6M4FQHSHRJO0JIF8DX2KW.uasset'
+[2024.01.27-00.30.34:057][614]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/MB/W2LKANE4FRN0UN3BGME3DX
+[2024.01.27-00.30.34:057][614]LogSavePackage: Moving 'C:/Users/neoha/Documents/GitHub/GGJ-24-Project/GlobalGameJam2024/Saved/W2LKANE4FRN0UN3BGME3DX4D9B057347B8ADC6D8AD0F85B68CD7FC.tmp' to 'C:/Users/neoha/Documents/GitHub/GGJ-24-Project/GlobalGameJam2024/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/MB/W2LKANE4FRN0UN3BGME3DX.uasset'
+[2024.01.27-00.30.34:058][614]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Neo/Dances/Salsa/zombie1" FILE="C:/Users/neoha/Documents/GitHub/GGJ-24-Project/GlobalGameJam2024/Content/Neo/Dances/Salsa/zombie1.uasset" SILENT=true
+[2024.01.27-00.30.34:059][614]LogSavePackage: Moving output files for package: /Game/Neo/Dances/Salsa/zombie1
+[2024.01.27-00.30.34:060][614]LogSavePackage: Moving 'C:/Users/neoha/Documents/GitHub/GGJ-24-Project/GlobalGameJam2024/Saved/zombie169C18124403960BA8175148B9264838E.tmp' to 'C:/Users/neoha/Documents/GitHub/GGJ-24-Project/GlobalGameJam2024/Content/Neo/Dances/Salsa/zombie1.uasset'
+[2024.01.27-00.30.34:065][614]LogSavePackage: Moving output files for package: /Game/Neo/Dances/Salsa2/Salsa_Dancing__1_
+[2024.01.27-00.30.34:066][614]LogSavePackage: Moving 'C:/Users/neoha/Documents/GitHub/GGJ-24-Project/GlobalGameJam2024/Saved/Salsa_Dancing__1_59F005FC4D360CA092E283A1A314D538.tmp' to 'C:/Users/neoha/Documents/GitHub/GGJ-24-Project/GlobalGameJam2024/Content/Neo/Dances/Salsa2/Salsa_Dancing__1_.uasset'
+[2024.01.27-00.30.34:111][614]LogShaderCompilers: Display: ================================================
+[2024.01.27-00.30.34:111][614]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.01.27-00.30.34:111][614]LogShaderCompilers: Display: Total job queries 971, among them cache hits 429 (44.18%)
+[2024.01.27-00.30.34:111][614]LogShaderCompilers: Display: Tracking 106 distinct input hashes that result in 22 distinct outputs (20.75%)
+[2024.01.27-00.30.34:111][614]LogShaderCompilers: Display: RAM used: 0.06 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.00%
+[2024.01.27-00.30.34:111][614]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.01.27-00.30.34:111][614]LogShaderCompilers: Display: Shaders Compiled: 424
+[2024.01.27-00.30.34:112][614]LogShaderCompilers: Display: Jobs assigned 106, completed 106 (100.00%)
+[2024.01.27-00.30.34:112][614]LogShaderCompilers: Display: Average time worker was idle: 76.81 s
+[2024.01.27-00.30.34:112][614]LogShaderCompilers: Display: Time job spent in pending queue: average 0.25 s, longest 2.24 s
+[2024.01.27-00.30.34:112][614]LogShaderCompilers: Display: Job execution time: average 0.79 s, max 1.69 s
+[2024.01.27-00.30.34:112][614]LogShaderCompilers: Display: Job life time (pending + execution): average 1.04 s, max 3.09
+[2024.01.27-00.30.34:112][614]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 21.72 s
+[2024.01.27-00.30.34:112][614]LogShaderCompilers: Display: Jobs were issued in 106 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.01.27-00.30.34:112][614]LogShaderCompilers: Display: Average processing rate: 4.88 jobs/sec
+[2024.01.27-00.30.34:112][614]LogShaderCompilers: Display: Effective parallelization: 2.91 (times faster than compiling all shaders on one thread). Compare with number of workers: 10
+[2024.01.27-00.30.34:112][614]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.01.27-00.30.34:112][614]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled    2 times, average 1.01 sec, max 1.10 sec, min 0.92 sec)
+[2024.01.27-00.30.34:112][614]LogShaderCompilers: Display:      TBasePassVSFPrecomputedVolumetricLightmapLightingPolicy (compiled    2 times, average 0.98 sec, max 1.10 sec, min 0.86 sec)
+[2024.01.27-00.30.34:112][614]LogShaderCompilers: Display:                TBasePassVSFCachedPointIndirectLightingPolicy (compiled    2 times, average 0.97 sec, max 1.08 sec, min 0.86 sec)
+[2024.01.27-00.30.34:112][614]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight (compiled    2 times, average 0.97 sec, max 1.01 sec, min 0.93 sec)
+[2024.01.27-00.30.34:112][614]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy (compiled    2 times, average 0.94 sec, max 1.05 sec, min 0.84 sec)
+[2024.01.27-00.30.34:112][614]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.01.27-00.30.34:112][614]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 21.47% of total time (compiled   22 times, average 0.62 sec, max 0.69 sec, min 0.51 sec)
+[2024.01.27-00.30.34:112][614]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 19.85% of total time (compiled   22 times, average 0.57 sec, max 0.65 sec, min 0.42 sec)
+[2024.01.27-00.30.34:112][614]LogShaderCompilers: Display:                                                 FLumenCardVS - 18.96% of total time (compiled   19 times, average 0.63 sec, max 1.00 sec, min 0.53 sec)
+[2024.01.27-00.30.34:112][614]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 7.51% of total time (compiled   19 times, average 0.25 sec, max 0.30 sec, min 0.23 sec)
+[2024.01.27-00.30.34:112][614]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight - 3.20% of total time (compiled    2 times, average 1.01 sec, max 1.10 sec, min 0.92 sec)
+[2024.01.27-00.30.34:112][614]LogShaderCompilers: Display: ================================================
+[2024.01.27-00.30.34:130][614]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Neo/Dances/Salsa2/zombie1" FILE="C:/Users/neoha/Documents/GitHub/GGJ-24-Project/GlobalGameJam2024/Content/Neo/Dances/Salsa2/zombie1.uasset" SILENT=true
+[2024.01.27-00.30.34:132][614]LogSavePackage: Moving output files for package: /Game/Neo/Dances/Salsa2/zombie1
+[2024.01.27-00.30.34:132][614]LogSavePackage: Moving 'C:/Users/neoha/Documents/GitHub/GGJ-24-Project/GlobalGameJam2024/Saved/zombie1F4B180F946506D0BD7E5CB8119A7D088.tmp' to 'C:/Users/neoha/Documents/GitHub/GGJ-24-Project/GlobalGameJam2024/Content/Neo/Dances/Salsa2/zombie1.uasset'
+[2024.01.27-00.30.34:260][614]LogSavePackage: Moving output files for package: /Game/Neo/Dances/Salsa2/Salsa_Dancing__1__Anim
+[2024.01.27-00.30.34:260][614]LogSavePackage: Moving 'C:/Users/neoha/Documents/GitHub/GGJ-24-Project/GlobalGameJam2024/Saved/Salsa_Dancing__1__Anim6D8DF60845EB57A7008839A7977A84D0.tmp' to 'C:/Users/neoha/Documents/GitHub/GGJ-24-Project/GlobalGameJam2024/Content/Neo/Dances/Salsa2/Salsa_Dancing__1__Anim.uasset'
+[2024.01.27-00.30.34:262][614]LogSavePackage: Moving output files for package: /Game/Neo/Dances/Salsa2/Salsa_Dancing__1__Skeleton
+[2024.01.27-00.30.34:262][614]LogSavePackage: Moving 'C:/Users/neoha/Documents/GitHub/GGJ-24-Project/GlobalGameJam2024/Saved/Salsa_Dancing__1__Skeleton521F03C443EB68AC997BFFBF8032F8EB.tmp' to 'C:/Users/neoha/Documents/GitHub/GGJ-24-Project/GlobalGameJam2024/Content/Neo/Dances/Salsa2/Salsa_Dancing__1__Skeleton.uasset'
+[2024.01.27-00.30.34:265][614]LogSavePackage: Moving output files for package: /Game/Neo/Dances/Salsa2/Salsa_Dancing__1__PhysicsAsset
+[2024.01.27-00.30.34:265][614]LogSavePackage: Moving 'C:/Users/neoha/Documents/GitHub/GGJ-24-Project/GlobalGameJam2024/Saved/Salsa_Dancing__1__PhysicsAsset30E4E1434803591A51D7048EC62900FB.tmp' to 'C:/Users/neoha/Documents/GitHub/GGJ-24-Project/GlobalGameJam2024/Content/Neo/Dances/Salsa2/Salsa_Dancing__1__PhysicsAsset.uasset'
+[2024.01.27-00.30.34:270][614]LogSavePackage: Moving output files for package: /Game/Neo/Dances/Maraschino/Dancing_Maraschino_Step
+[2024.01.27-00.30.34:270][614]LogSavePackage: Moving 'C:/Users/neoha/Documents/GitHub/GGJ-24-Project/GlobalGameJam2024/Saved/Dancing_Maraschino_Step25BF9E884A0684CD61C35A9C320A5B27.tmp' to 'C:/Users/neoha/Documents/GitHub/GGJ-24-Project/GlobalGameJam2024/Content/Neo/Dances/Maraschino/Dancing_Maraschino_Step.uasset'
+[2024.01.27-00.30.34:302][614]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Neo/Dances/Maraschino/zombie1" FILE="C:/Users/neoha/Documents/GitHub/GGJ-24-Project/GlobalGameJam2024/Content/Neo/Dances/Maraschino/zombie1.uasset" SILENT=true
+[2024.01.27-00.30.34:303][614]LogSavePackage: Moving output files for package: /Game/Neo/Dances/Maraschino/zombie1
+[2024.01.27-00.30.34:303][614]LogSavePackage: Moving 'C:/Users/neoha/Documents/GitHub/GGJ-24-Project/GlobalGameJam2024/Saved/zombie18BDD0B2E4A6F0C7D0E30DBB800411AEB.tmp' to 'C:/Users/neoha/Documents/GitHub/GGJ-24-Project/GlobalGameJam2024/Content/Neo/Dances/Maraschino/zombie1.uasset'
+[2024.01.27-00.30.34:305][614]LogSavePackage: Moving output files for package: /Game/Neo/Dances/Maraschino/Dancing_Maraschino_Step_Skeleton
+[2024.01.27-00.30.34:305][614]LogSavePackage: Moving 'C:/Users/neoha/Documents/GitHub/GGJ-24-Project/GlobalGameJam2024/Saved/Dancing_Maraschino_Step_Skeleton44C3763C4338AA845B85679511C31B55.tmp' to 'C:/Users/neoha/Documents/GitHub/GGJ-24-Project/GlobalGameJam2024/Content/Neo/Dances/Maraschino/Dancing_Maraschino_Step_Skeleton.uasset'
+[2024.01.27-00.30.34:308][614]LogSavePackage: Moving output files for package: /Game/Neo/Dances/Maraschino/Dancing_Maraschino_Step_PhysicsAsset
+[2024.01.27-00.30.34:308][614]LogSavePackage: Moving 'C:/Users/neoha/Documents/GitHub/GGJ-24-Project/GlobalGameJam2024/Saved/Dancing_Maraschino_Step_PhysicsAB72475F54F796F85E99A87A395DD16C9.tmp' to 'C:/Users/neoha/Documents/GitHub/GGJ-24-Project/GlobalGameJam2024/Content/Neo/Dances/Maraschino/Dancing_Maraschino_Step_PhysicsAsset.uasset'
+[2024.01.27-00.30.34:533][614]LogSavePackage: Moving output files for package: /Game/Neo/Dances/Maraschino/Dancing_Maraschino_Step_Anim
+[2024.01.27-00.30.34:533][614]LogSavePackage: Moving 'C:/Users/neoha/Documents/GitHub/GGJ-24-Project/GlobalGameJam2024/Saved/Dancing_Maraschino_Step_AnimAAFFE03840DA637FF5500AB61B00ED87.tmp' to 'C:/Users/neoha/Documents/GitHub/GGJ-24-Project/GlobalGameJam2024/Content/Neo/Dances/Maraschino/Dancing_Maraschino_Step_Anim.uasset'
+[2024.01.27-00.30.34:539][614]LogSavePackage: Moving output files for package: /Game/Neo/Dances/Hip-Hop/Hip_Hop_Dancing
+[2024.01.27-00.30.34:539][614]LogSavePackage: Moving 'C:/Users/neoha/Documents/GitHub/GGJ-24-Project/GlobalGameJam2024/Saved/Hip_Hop_Dancing48D2A3E04FCB32BEBAA49892CF81689F.tmp' to 'C:/Users/neoha/Documents/GitHub/GGJ-24-Project/GlobalGameJam2024/Content/Neo/Dances/Hip-Hop/Hip_Hop_Dancing.uasset'
+[2024.01.27-00.30.34:571][614]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Neo/Dances/Hip-Hop/zombie1" FILE="C:/Users/neoha/Documents/GitHub/GGJ-24-Project/GlobalGameJam2024/Content/Neo/Dances/Hip-Hop/zombie1.uasset" SILENT=true
+[2024.01.27-00.30.34:572][614]LogSavePackage: Moving output files for package: /Game/Neo/Dances/Hip-Hop/zombie1
+[2024.01.27-00.30.34:573][614]LogSavePackage: Moving 'C:/Users/neoha/Documents/GitHub/GGJ-24-Project/GlobalGameJam2024/Saved/zombie1243F6C0C40C32D972C716D98FA31603F.tmp' to 'C:/Users/neoha/Documents/GitHub/GGJ-24-Project/GlobalGameJam2024/Content/Neo/Dances/Hip-Hop/zombie1.uasset'
+[2024.01.27-00.30.34:574][614]LogSavePackage: Moving output files for package: /Game/Neo/Dances/Hip-Hop/Hip_Hop_Dancing_Skeleton
+[2024.01.27-00.30.34:574][614]LogSavePackage: Moving 'C:/Users/neoha/Documents/GitHub/GGJ-24-Project/GlobalGameJam2024/Saved/Hip_Hop_Dancing_SkeletonFA4CFCB24E659A49C84138ACB87EA9BD.tmp' to 'C:/Users/neoha/Documents/GitHub/GGJ-24-Project/GlobalGameJam2024/Content/Neo/Dances/Hip-Hop/Hip_Hop_Dancing_Skeleton.uasset'
+[2024.01.27-00.30.34:577][614]LogSavePackage: Moving output files for package: /Game/Neo/Dances/Hip-Hop/Hip_Hop_Dancing_PhysicsAsset
+[2024.01.27-00.30.34:577][614]LogSavePackage: Moving 'C:/Users/neoha/Documents/GitHub/GGJ-24-Project/GlobalGameJam2024/Saved/Hip_Hop_Dancing_PhysicsAssetE64129A2473410DDA695B4B8E4721FAF.tmp' to 'C:/Users/neoha/Documents/GitHub/GGJ-24-Project/GlobalGameJam2024/Content/Neo/Dances/Hip-Hop/Hip_Hop_Dancing_PhysicsAsset.uasset'
+[2024.01.27-00.30.34:594][614]LogSavePackage: Moving output files for package: /Game/Neo/Dances/Hip-Hop/Hip_Hop_Dancing_Anim
+[2024.01.27-00.30.34:594][614]LogSavePackage: Moving 'C:/Users/neoha/Documents/GitHub/GGJ-24-Project/GlobalGameJam2024/Saved/Hip_Hop_Dancing_Anim1931F5F24BBDC3D7B55BE2A4D1F72E2E.tmp' to 'C:/Users/neoha/Documents/GitHub/GGJ-24-Project/GlobalGameJam2024/Content/Neo/Dances/Hip-Hop/Hip_Hop_Dancing_Anim.uasset'
+[2024.01.27-00.30.34:595][614]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Neo/Dances/Samba/Samba_Dancing" FILE="C:/Users/neoha/Documents/GitHub/GGJ-24-Project/GlobalGameJam2024/Content/Neo/Dances/Samba/Samba_Dancing.uasset" SILENT=true
+[2024.01.27-00.30.34:599][614]LogSavePackage: Moving output files for package: /Game/Neo/Dances/Samba/Samba_Dancing
+[2024.01.27-00.30.34:599][614]LogSavePackage: Moving 'C:/Users/neoha/Documents/GitHub/GGJ-24-Project/GlobalGameJam2024/Saved/Samba_DancingC1D5F3B5492450565EE3D2B0E1A5A431.tmp' to 'C:/Users/neoha/Documents/GitHub/GGJ-24-Project/GlobalGameJam2024/Content/Neo/Dances/Samba/Samba_Dancing.uasset'
+[2024.01.27-00.30.34:632][614]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Neo/Dances/Samba/zombie1" FILE="C:/Users/neoha/Documents/GitHub/GGJ-24-Project/GlobalGameJam2024/Content/Neo/Dances/Samba/zombie1.uasset" SILENT=true
+[2024.01.27-00.30.34:633][614]LogSavePackage: Moving output files for package: /Game/Neo/Dances/Samba/zombie1
+[2024.01.27-00.30.34:634][614]LogSavePackage: Moving 'C:/Users/neoha/Documents/GitHub/GGJ-24-Project/GlobalGameJam2024/Saved/zombie15ABD2FA04FC98791626A9C8397C4600F.tmp' to 'C:/Users/neoha/Documents/GitHub/GGJ-24-Project/GlobalGameJam2024/Content/Neo/Dances/Samba/zombie1.uasset'
+[2024.01.27-00.30.34:635][614]LogSavePackage: Moving output files for package: /Game/Neo/Dances/Samba/Samba_Dancing_Skeleton
+[2024.01.27-00.30.34:635][614]LogSavePackage: Moving 'C:/Users/neoha/Documents/GitHub/GGJ-24-Project/GlobalGameJam2024/Saved/Samba_Dancing_Skeleton330FF7964647D43506AD3DBD1FAC922B.tmp' to 'C:/Users/neoha/Documents/GitHub/GGJ-24-Project/GlobalGameJam2024/Content/Neo/Dances/Samba/Samba_Dancing_Skeleton.uasset'
+[2024.01.27-00.30.34:638][614]LogSavePackage: Moving output files for package: /Game/Neo/Dances/Samba/Samba_Dancing_PhysicsAsset
+[2024.01.27-00.30.34:639][614]LogSavePackage: Moving 'C:/Users/neoha/Documents/GitHub/GGJ-24-Project/GlobalGameJam2024/Saved/Samba_Dancing_PhysicsAsset130983064CC0E96EAD560B896BB8945C.tmp' to 'C:/Users/neoha/Documents/GitHub/GGJ-24-Project/GlobalGameJam2024/Content/Neo/Dances/Samba/Samba_Dancing_PhysicsAsset.uasset'
+[2024.01.27-00.30.34:970][614]LogSavePackage: Moving output files for package: /Game/Neo/Dances/Samba/Samba_Dancing_Anim
+[2024.01.27-00.30.34:970][614]LogSavePackage: Moving 'C:/Users/neoha/Documents/GitHub/GGJ-24-Project/GlobalGameJam2024/Saved/Samba_Dancing_Anim3D9DD1F54A5895B59B4967A4C1F47C70.tmp' to 'C:/Users/neoha/Documents/GitHub/GGJ-24-Project/GlobalGameJam2024/Content/Neo/Dances/Samba/Samba_Dancing_Anim.uasset'
+[2024.01.27-00.30.34:975][614]LogSavePackage: Moving output files for package: /Game/Neo/Dances/StepHip-Hop/Step_Hip_Hop_Dance
+[2024.01.27-00.30.34:976][614]LogSavePackage: Moving 'C:/Users/neoha/Documents/GitHub/GGJ-24-Project/GlobalGameJam2024/Saved/Step_Hip_Hop_Dance20CF4ABA4715C7EE7F429282C4DE33EC.tmp' to 'C:/Users/neoha/Documents/GitHub/GGJ-24-Project/GlobalGameJam2024/Content/Neo/Dances/StepHip-Hop/Step_Hip_Hop_Dance.uasset'
+[2024.01.27-00.30.35:009][614]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Neo/Dances/StepHip-Hop/zombie1" FILE="C:/Users/neoha/Documents/GitHub/GGJ-24-Project/GlobalGameJam2024/Content/Neo/Dances/StepHip-Hop/zombie1.uasset" SILENT=true
+[2024.01.27-00.30.35:011][614]LogSavePackage: Moving output files for package: /Game/Neo/Dances/StepHip-Hop/zombie1
+[2024.01.27-00.30.35:011][614]LogSavePackage: Moving 'C:/Users/neoha/Documents/GitHub/GGJ-24-Project/GlobalGameJam2024/Saved/zombie1587216044EEDB2BE6C4254AC5CD9B855.tmp' to 'C:/Users/neoha/Documents/GitHub/GGJ-24-Project/GlobalGameJam2024/Content/Neo/Dances/StepHip-Hop/zombie1.uasset'
+[2024.01.27-00.30.35:030][614]LogSavePackage: Moving output files for package: /Game/Neo/Dances/StepHip-Hop/Step_Hip_Hop_Dance_Anim
+[2024.01.27-00.30.35:030][614]LogSavePackage: Moving 'C:/Users/neoha/Documents/GitHub/GGJ-24-Project/GlobalGameJam2024/Saved/Step_Hip_Hop_Dance_AnimB6D903AA4F7C49BFF0F30F80681CBABA.tmp' to 'C:/Users/neoha/Documents/GitHub/GGJ-24-Project/GlobalGameJam2024/Content/Neo/Dances/StepHip-Hop/Step_Hip_Hop_Dance_Anim.uasset'
+[2024.01.27-00.30.35:032][614]LogSavePackage: Moving output files for package: /Game/Neo/Dances/StepHip-Hop/Step_Hip_Hop_Dance_Skeleton
+[2024.01.27-00.30.35:032][614]LogSavePackage: Moving 'C:/Users/neoha/Documents/GitHub/GGJ-24-Project/GlobalGameJam2024/Saved/Step_Hip_Hop_Dance_SkeletonA5A3752E40623B17ADEC6FBA502612A5.tmp' to 'C:/Users/neoha/Documents/GitHub/GGJ-24-Project/GlobalGameJam2024/Content/Neo/Dances/StepHip-Hop/Step_Hip_Hop_Dance_Skeleton.uasset'
+[2024.01.27-00.30.35:035][614]LogSavePackage: Moving output files for package: /Game/Neo/Dances/StepHip-Hop/Step_Hip_Hop_Dance_PhysicsAsset
+[2024.01.27-00.30.35:035][614]LogSavePackage: Moving 'C:/Users/neoha/Documents/GitHub/GGJ-24-Project/GlobalGameJam2024/Saved/Step_Hip_Hop_Dance_PhysicsAsset16AAA74F4320C4EB1131FEB828FDFA5E.tmp' to 'C:/Users/neoha/Documents/GitHub/GGJ-24-Project/GlobalGameJam2024/Content/Neo/Dances/StepHip-Hop/Step_Hip_Hop_Dance_PhysicsAsset.uasset'
+[2024.01.27-00.30.35:040][614]LogSavePackage: Moving output files for package: /Game/Neo/Dances/GangnamStyle/Gangnam_Style
+[2024.01.27-00.30.35:040][614]LogSavePackage: Moving 'C:/Users/neoha/Documents/GitHub/GGJ-24-Project/GlobalGameJam2024/Saved/Gangnam_StyleC081C4144B5A7C3EF7D71D9E39849BCE.tmp' to 'C:/Users/neoha/Documents/GitHub/GGJ-24-Project/GlobalGameJam2024/Content/Neo/Dances/GangnamStyle/Gangnam_Style.uasset'
+[2024.01.27-00.30.35:074][614]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Neo/Dances/GangnamStyle/zombie1" FILE="C:/Users/neoha/Documents/GitHub/GGJ-24-Project/GlobalGameJam2024/Content/Neo/Dances/GangnamStyle/zombie1.uasset" SILENT=true
+[2024.01.27-00.30.35:075][614]LogSavePackage: Moving output files for package: /Game/Neo/Dances/GangnamStyle/zombie1
+[2024.01.27-00.30.35:075][614]LogSavePackage: Moving 'C:/Users/neoha/Documents/GitHub/GGJ-24-Project/GlobalGameJam2024/Saved/zombie10C39046F4C06DFA45DA0BD877DC8FCD4.tmp' to 'C:/Users/neoha/Documents/GitHub/GGJ-24-Project/GlobalGameJam2024/Content/Neo/Dances/GangnamStyle/zombie1.uasset'
+[2024.01.27-00.30.35:101][614]LogSavePackage: Moving output files for package: /Game/Neo/Dances/GangnamStyle/Gangnam_Style_Anim
+[2024.01.27-00.30.35:101][614]LogSavePackage: Moving 'C:/Users/neoha/Documents/GitHub/GGJ-24-Project/GlobalGameJam2024/Saved/Gangnam_Style_Anim735C415F4217AE8BF20CB39971EB5796.tmp' to 'C:/Users/neoha/Documents/GitHub/GGJ-24-Project/GlobalGameJam2024/Content/Neo/Dances/GangnamStyle/Gangnam_Style_Anim.uasset'
+[2024.01.27-00.30.35:103][614]LogSavePackage: Moving output files for package: /Game/Neo/Dances/GangnamStyle/Gangnam_Style_Skeleton
+[2024.01.27-00.30.35:103][614]LogSavePackage: Moving 'C:/Users/neoha/Documents/GitHub/GGJ-24-Project/GlobalGameJam2024/Saved/Gangnam_Style_SkeletonE709E8D944384871F43A2981ADB31316.tmp' to 'C:/Users/neoha/Documents/GitHub/GGJ-24-Project/GlobalGameJam2024/Content/Neo/Dances/GangnamStyle/Gangnam_Style_Skeleton.uasset'
+[2024.01.27-00.30.35:106][614]LogSavePackage: Moving output files for package: /Game/Neo/Dances/GangnamStyle/Gangnam_Style_PhysicsAsset
+[2024.01.27-00.30.35:106][614]LogSavePackage: Moving 'C:/Users/neoha/Documents/GitHub/GGJ-24-Project/GlobalGameJam2024/Saved/Gangnam_Style_PhysicsAsset56C3A2404C8EFAFA416A9191FCACD250.tmp' to 'C:/Users/neoha/Documents/GitHub/GGJ-24-Project/GlobalGameJam2024/Content/Neo/Dances/GangnamStyle/Gangnam_Style_PhysicsAsset.uasset'
+[2024.01.27-00.30.35:129][614]AssetCheck: New page: Asset Save: multiple assets
+[2024.01.27-00.30.35:129][614]LogContentValidation: Display: Validating Skeleton /Game/Neo/Dances/Salsa2/Salsa_Dancing__1__Skeleton.Salsa_Dancing__1__Skeleton
+[2024.01.27-00.30.35:129][614]LogContentValidation: Display: Validating Material /Game/Neo/Dances/Salsa/zombie1.zombie1
+[2024.01.27-00.30.35:129][614]LogContentValidation: Display: Validating Material /Game/Neo/Dances/Salsa2/zombie1.zombie1
+[2024.01.27-00.30.35:129][614]LogContentValidation: Display: Validating AnimSequence /Game/Neo/Dances/Salsa2/Salsa_Dancing__1__Anim.Salsa_Dancing__1__Anim
+[2024.01.27-00.30.35:129][614]LogContentValidation: Display: Validating SkeletalMesh /Game/Neo/Dances/Salsa2/Salsa_Dancing__1_.Salsa_Dancing__1_
+[2024.01.27-00.30.35:129][614]LogContentValidation: Display: Validating PhysicsAsset /Game/Neo/Dances/Salsa2/Salsa_Dancing__1__PhysicsAsset.Salsa_Dancing__1__PhysicsAsset
+[2024.01.27-00.30.35:129][614]LogContentValidation: Display: Validating AnimSequence /Game/Neo/Dances/Maraschino/Dancing_Maraschino_Step_Anim.Dancing_Maraschino_Step_Anim
+[2024.01.27-00.30.35:129][614]LogContentValidation: Display: Validating SkeletalMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.SkeletalMeshActor_UAID_2CF05DE24A8364D301_1616655576
+[2024.01.27-00.30.35:129][614]LogContentValidation: Display: Validating SkeletalMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.SkeletalMeshActor_UAID_2CF05DE24A8364D301_1957192577
+[2024.01.27-00.30.35:129][614]LogContentValidation: Display: Validating AnimSequence /Game/Neo/Dances/Samba/Samba_Dancing_Anim.Samba_Dancing_Anim
+[2024.01.27-00.30.35:129][614]LogContentValidation: Display: Validating PhysicsAsset /Game/Neo/Dances/Maraschino/Dancing_Maraschino_Step_PhysicsAsset.Dancing_Maraschino_Step_PhysicsAsset
+[2024.01.27-00.30.35:130][614]LogContentValidation: Display: Validating Skeleton /Game/Neo/Dances/Maraschino/Dancing_Maraschino_Step_Skeleton.Dancing_Maraschino_Step_Skeleton
+[2024.01.27-00.30.35:130][614]LogContentValidation: Display: Validating Material /Game/Neo/Dances/Maraschino/zombie1.zombie1
+[2024.01.27-00.30.35:130][614]LogContentValidation: Display: Validating SkeletalMesh /Game/Neo/Dances/Maraschino/Dancing_Maraschino_Step.Dancing_Maraschino_Step
+[2024.01.27-00.30.35:130][614]LogContentValidation: Display: Validating SkeletalMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.SkeletalMeshActor_UAID_2CF05DE24A8364D301_2091888579
+[2024.01.27-00.30.35:130][614]LogContentValidation: Display: Validating SkeletalMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.SkeletalMeshActor_UAID_2CF05DE24A8364D301_2031805578
+[2024.01.27-00.30.35:130][614]LogContentValidation: Display: Validating AnimSequence /Game/Neo/Dances/Hip-Hop/Hip_Hop_Dancing_Anim.Hip_Hop_Dancing_Anim
+[2024.01.27-00.30.35:130][614]LogContentValidation: Display: Validating PhysicsAsset /Game/Neo/Dances/Samba/Samba_Dancing_PhysicsAsset.Samba_Dancing_PhysicsAsset
+[2024.01.27-00.30.35:130][614]LogContentValidation: Display: Validating PhysicsAsset /Game/Neo/Dances/Hip-Hop/Hip_Hop_Dancing_PhysicsAsset.Hip_Hop_Dancing_PhysicsAsset
+[2024.01.27-00.30.35:130][614]LogContentValidation: Display: Validating Skeleton /Game/Neo/Dances/Hip-Hop/Hip_Hop_Dancing_Skeleton.Hip_Hop_Dancing_Skeleton
+[2024.01.27-00.30.35:130][614]LogContentValidation: Display: Validating Material /Game/Neo/Dances/Hip-Hop/zombie1.zombie1
+[2024.01.27-00.30.35:130][614]LogContentValidation: Display: Validating Skeleton /Game/Neo/Dances/Samba/Samba_Dancing_Skeleton.Samba_Dancing_Skeleton
+[2024.01.27-00.30.35:130][614]LogContentValidation: Display: Validating SkeletalMesh /Game/Neo/Dances/Hip-Hop/Hip_Hop_Dancing.Hip_Hop_Dancing
+[2024.01.27-00.30.35:130][614]LogContentValidation: Display: Validating Material /Game/Neo/Dances/Samba/zombie1.zombie1
+[2024.01.27-00.30.35:130][614]LogContentValidation: Display: Validating SkeletalMesh /Game/Neo/Dances/Samba/Samba_Dancing.Samba_Dancing
+[2024.01.27-00.30.35:130][614]LogContentValidation: Display: Validating SkeletalMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.SkeletalMeshActor_UAID_2CF05DE24A8365D301_1248691756
+[2024.01.27-00.30.35:130][614]LogContentValidation: Display: Validating AnimSequence /Game/Neo/Dances/GangnamStyle/Gangnam_Style_Anim.Gangnam_Style_Anim
+[2024.01.27-00.30.35:130][614]LogContentValidation: Display: Validating AnimSequence /Game/Neo/Dances/StepHip-Hop/Step_Hip_Hop_Dance_Anim.Step_Hip_Hop_Dance_Anim
+[2024.01.27-00.30.35:130][614]LogContentValidation: Display: Validating PhysicsAsset /Game/Neo/Dances/StepHip-Hop/Step_Hip_Hop_Dance_PhysicsAsset.Step_Hip_Hop_Dance_PhysicsAsset
+[2024.01.27-00.30.35:130][614]LogContentValidation: Display: Validating Skeleton /Game/Neo/Dances/StepHip-Hop/Step_Hip_Hop_Dance_Skeleton.Step_Hip_Hop_Dance_Skeleton
+[2024.01.27-00.30.35:130][614]LogContentValidation: Display: Validating Material /Game/Neo/Dances/StepHip-Hop/zombie1.zombie1
+[2024.01.27-00.30.35:130][614]LogContentValidation: Display: Validating PhysicsAsset /Game/Neo/Dances/GangnamStyle/Gangnam_Style_PhysicsAsset.Gangnam_Style_PhysicsAsset
+[2024.01.27-00.30.35:130][614]LogContentValidation: Display: Validating SkeletalMesh /Game/Neo/Dances/StepHip-Hop/Step_Hip_Hop_Dance.Step_Hip_Hop_Dance
+[2024.01.27-00.30.35:130][614]LogContentValidation: Display: Validating Skeleton /Game/Neo/Dances/GangnamStyle/Gangnam_Style_Skeleton.Gangnam_Style_Skeleton
+[2024.01.27-00.30.35:130][614]LogContentValidation: Display: Validating Material /Game/Neo/Dances/GangnamStyle/zombie1.zombie1
+[2024.01.27-00.30.35:130][614]LogContentValidation: Display: Validating SkeletalMesh /Game/Neo/Dances/GangnamStyle/Gangnam_Style.Gangnam_Style
+[2024.01.27-00.32.40:861][ 64]LogDerivedDataCache: C:/Users/neoha/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.114 and deleted 0 file(s) with total size 0 MiB.
+[2024.01.27-00.38.02:152][115]LogWorldPartition: Warning: Actor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.SkeletalMeshActor_UAID_2CF05DE24A8364D301_1612647575 is unreachable without properly detaching object /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/O0/7YDBK6K3VYFAK92QH0CDPW.PackageMetaData in its package
+[2024.01.27-00.38.02:153][115]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2024.01.27-00.38.02:161][115]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2024.01.27-00.38.03:162][227]LogUObjectHash: Compacting FUObjectHashTables data took   0.15ms
+[2024.01.27-00.38.03:163][227]LogStall: Shutdown...
+[2024.01.27-00.38.03:170][227]LogStall: Shutdown complete.
+[2024.01.27-00.38.03:187][227]LogSlate: Window 'GlobalGameJam2024 - Unreal Editor' being destroyed
+[2024.01.27-00.38.03:300][228]Cmd: QUIT_EDITOR
+[2024.01.27-00.38.03:300][228]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2024.01.27-00.38.03:302][228]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2024.01.27-00.38.03:302][228]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2024.01.27-00.38.03:302][228]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2024.01.27-00.38.03:411][228]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2024.01.27-00.38.03:411][228]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2024.01.27-00.38.03:411][228]LogAudio: Display: Audio Device unregistered from world 'FirstPersonMap'.
+[2024.01.27-00.38.03:411][228]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2024.01.27-00.38.03:413][228]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2024.01.27-00.38.03:417][228]LogAudio: Display: Audio Device Manager Shutdown
+[2024.01.27-00.38.03:421][228]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2024.01.27-00.38.03:421][228]LogExit: Preparing to exit.
+[2024.01.27-00.38.03:429][228]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2024.01.27-00.38.03:681][228]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2024.01.27-00.38.03:681][228]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2024.01.27-00.38.03:681][228]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2024.01.27-00.38.03:681][228]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2024.01.27-00.38.03:681][228]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2024.01.27-00.38.03:682][228]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2024.01.27-00.38.03:682][228]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2024.01.27-00.38.03:682][228]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2024.01.27-00.38.03:682][228]LogWorld: UWorld::CleanupWorld for World_28, bSessionEnded=true, bCleanupResources=true
+[2024.01.27-00.38.03:682][228]LogWorld: UWorld::CleanupWorld for World_32, bSessionEnded=true, bCleanupResources=true
+[2024.01.27-00.38.03:682][228]LogWorld: UWorld::CleanupWorld for World_36, bSessionEnded=true, bCleanupResources=true
+[2024.01.27-00.38.03:682][228]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2024.01.27-00.38.03:682][228]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.01.27-00.38.03:682][228]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.01.27-00.38.03:682][228]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.01.27-00.38.03:682][228]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.01.27-00.38.03:682][228]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.01.27-00.38.03:682][228]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.01.27-00.38.03:682][228]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.01.27-00.38.03:682][228]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2024.01.27-00.38.03:682][228]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2024.01.27-00.38.03:682][228]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2024.01.27-00.38.03:683][228]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2024.01.27-00.38.03:683][228]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2024.01.27-00.38.03:683][228]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2024.01.27-00.38.03:683][228]LogWorld: UWorld::CleanupWorld for World_27, bSessionEnded=true, bCleanupResources=true
+[2024.01.27-00.38.03:683][228]LogWorld: UWorld::CleanupWorld for World_31, bSessionEnded=true, bCleanupResources=true
+[2024.01.27-00.38.03:683][228]LogWorld: UWorld::CleanupWorld for World_35, bSessionEnded=true, bCleanupResources=true
+[2024.01.27-00.38.03:683][228]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2024.01.27-00.38.03:683][228]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2024.01.27-00.38.03:687][228]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2024.01.27-00.38.03:710][228]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2024.01.27-00.38.03:726][228]LogStylusInput: Shutting down StylusInput subsystem.
+[2024.01.27-00.38.03:726][228]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2024.01.27-00.38.03:730][228]LogExit: Editor shut down
+[2024.01.27-00.38.03:731][228]LogExit: Transaction tracking system shut down
+[2024.01.27-00.38.03:905][228]LogExit: Object subsystem successfully closed.
+[2024.01.27-00.38.03:911][228]LogShaderCompilers: Display: ================================================
+[2024.01.27-00.38.03:911][228]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.01.27-00.38.03:911][228]LogShaderCompilers: Display: Total job queries 1099, among them cache hits 557 (50.68%)
+[2024.01.27-00.38.03:911][228]LogShaderCompilers: Display: Tracking 106 distinct input hashes that result in 22 distinct outputs (20.75%)
+[2024.01.27-00.38.03:911][228]LogShaderCompilers: Display: RAM used: 0.06 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.00%
+[2024.01.27-00.38.03:911][228]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.01.27-00.38.03:911][228]LogShaderCompilers: Display: Shaders Compiled: 424
+[2024.01.27-00.38.03:911][228]LogShaderCompilers: Display: Jobs assigned 106, completed 106 (100.00%)
+[2024.01.27-00.38.03:911][228]LogShaderCompilers: Display: Average time worker was idle: 76.81 s
+[2024.01.27-00.38.03:911][228]LogShaderCompilers: Display: Time job spent in pending queue: average 0.25 s, longest 2.24 s
+[2024.01.27-00.38.03:911][228]LogShaderCompilers: Display: Job execution time: average 0.79 s, max 1.69 s
+[2024.01.27-00.38.03:911][228]LogShaderCompilers: Display: Job life time (pending + execution): average 1.04 s, max 3.09
+[2024.01.27-00.38.03:911][228]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 21.72 s
+[2024.01.27-00.38.03:911][228]LogShaderCompilers: Display: Jobs were issued in 106 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.01.27-00.38.03:911][228]LogShaderCompilers: Display: Average processing rate: 4.88 jobs/sec
+[2024.01.27-00.38.03:911][228]LogShaderCompilers: Display: Effective parallelization: 2.91 (times faster than compiling all shaders on one thread). Compare with number of workers: 10
+[2024.01.27-00.38.03:911][228]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.01.27-00.38.03:911][228]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled    2 times, average 1.01 sec, max 1.10 sec, min 0.92 sec)
+[2024.01.27-00.38.03:911][228]LogShaderCompilers: Display:      TBasePassVSFPrecomputedVolumetricLightmapLightingPolicy (compiled    2 times, average 0.98 sec, max 1.10 sec, min 0.86 sec)
+[2024.01.27-00.38.03:911][228]LogShaderCompilers: Display:                TBasePassVSFCachedPointIndirectLightingPolicy (compiled    2 times, average 0.97 sec, max 1.08 sec, min 0.86 sec)
+[2024.01.27-00.38.03:911][228]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight (compiled    2 times, average 0.97 sec, max 1.01 sec, min 0.93 sec)
+[2024.01.27-00.38.03:911][228]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy (compiled    2 times, average 0.94 sec, max 1.05 sec, min 0.84 sec)
+[2024.01.27-00.38.03:911][228]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.01.27-00.38.03:911][228]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 21.47% of total time (compiled   22 times, average 0.62 sec, max 0.69 sec, min 0.51 sec)
+[2024.01.27-00.38.03:911][228]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 19.85% of total time (compiled   22 times, average 0.57 sec, max 0.65 sec, min 0.42 sec)
+[2024.01.27-00.38.03:911][228]LogShaderCompilers: Display:                                                 FLumenCardVS - 18.96% of total time (compiled   19 times, average 0.63 sec, max 1.00 sec, min 0.53 sec)
+[2024.01.27-00.38.03:911][228]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 7.51% of total time (compiled   19 times, average 0.25 sec, max 0.30 sec, min 0.23 sec)
+[2024.01.27-00.38.03:911][228]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight - 3.20% of total time (compiled    2 times, average 1.01 sec, max 1.10 sec, min 0.92 sec)
+[2024.01.27-00.38.03:911][228]LogShaderCompilers: Display: ================================================
+[2024.01.27-00.38.04:022][228]LogShaderCompilers: Display: Shaders left to compile 0
+[2024.01.27-00.38.04:037][228]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (884)
+[2024.01.27-00.38.04:037][228]LogModuleManager: Shutting down and abandoning module Voice (882)
+[2024.01.27-00.38.04:037][228]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (880)
+[2024.01.27-00.38.04:037][228]LogModuleManager: Shutting down and abandoning module AddContentDialog (878)
+[2024.01.27-00.38.04:037][228]LogModuleManager: Shutting down and abandoning module WidgetCarousel (877)
+[2024.01.27-00.38.04:037][228]LogModuleManager: Shutting down and abandoning module SubobjectEditor (874)
+[2024.01.27-00.38.04:037][228]LogModuleManager: Shutting down and abandoning module SceneOutliner (872)
+[2024.01.27-00.38.04:037][228]LogModuleManager: Shutting down and abandoning module StatusBar (870)
+[2024.01.27-00.38.04:037][228]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (868)
+[2024.01.27-00.38.04:037][228]LogModuleManager: Shutting down and abandoning module DataLayerEditor (866)
+[2024.01.27-00.38.04:037][228]LogModuleManager: Shutting down and abandoning module StatsViewer (864)
+[2024.01.27-00.38.04:037][228]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (862)
+[2024.01.27-00.38.04:037][228]LogModuleManager: Shutting down and abandoning module AutomationWorker (860)
+[2024.01.27-00.38.04:037][228]LogModuleManager: Shutting down and abandoning module ResonanceAudioEditor (858)
+[2024.01.27-00.38.04:037][228]LogModuleManager: Shutting down and abandoning module GooglePADEditor (856)
+[2024.01.27-00.38.04:037][228]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (854)
+[2024.01.27-00.38.04:037][228]LogModuleManager: Shutting down and abandoning module AndroidFileServerEditor (852)
+[2024.01.27-00.38.04:037][228]LogModuleManager: Shutting down and abandoning module PlanarCut (850)
+[2024.01.27-00.38.04:037][228]LogModuleManager: Shutting down and abandoning module IKRigEditor (848)
+[2024.01.27-00.38.04:037][228]LogModuleManager: Shutting down and abandoning module CharacterAI (846)
+[2024.01.27-00.38.04:037][228]LogModuleManager: Shutting down and abandoning module TemplateSequenceEditor (844)
+[2024.01.27-00.38.04:037][228]LogModuleManager: Shutting down and abandoning module ControlRigSplineEditor (842)
+[2024.01.27-00.38.04:037][228]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (840)
+[2024.01.27-00.38.04:038][228]LogModuleManager: Shutting down and abandoning module ControlRigEditor (838)
+[2024.01.27-00.38.04:038][228]LogModuleManager: Shutting down and abandoning module AnimationEditor (837)
+[2024.01.27-00.38.04:038][228]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (834)
+[2024.01.27-00.38.04:038][228]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (832)
+[2024.01.27-00.38.04:038][228]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (830)
+[2024.01.27-00.38.04:038][228]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (828)
+[2024.01.27-00.38.04:038][228]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (826)
+[2024.01.27-00.38.04:038][228]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (824)
+[2024.01.27-00.38.04:038][228]LogModuleManager: Shutting down and abandoning module WebMMedia (822)
+[2024.01.27-00.38.04:038][228]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (820)
+[2024.01.27-00.38.04:038][228]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (818)
+[2024.01.27-00.38.04:038][228]LogModuleManager: Shutting down and abandoning module SequenceRecorder (817)
+[2024.01.27-00.38.04:038][228]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (814)
+[2024.01.27-00.38.04:038][228]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (812)
+[2024.01.27-00.38.04:038][228]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (810)
+[2024.01.27-00.38.04:038][228]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (808)
+[2024.01.27-00.38.04:038][228]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (806)
+[2024.01.27-00.38.04:038][228]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (804)
+[2024.01.27-00.38.04:038][228]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (802)
+[2024.01.27-00.38.04:038][228]LogModuleManager: Shutting down and abandoning module CameraShakePreviewer (800)
+[2024.01.27-00.38.04:038][228]LogModuleManager: Shutting down and abandoning module TextureAlignMode (798)
+[2024.01.27-00.38.04:038][228]LogModuleManager: Shutting down and abandoning module BspMode (796)
+[2024.01.27-00.38.04:038][228]LogModuleManager: Shutting down and abandoning module GeometryMode (794)
+[2024.01.27-00.38.04:038][228]LogModuleManager: Shutting down and abandoning module SmartSnapping (792)
+[2024.01.27-00.38.04:038][228]LogModuleManager: Shutting down and abandoning module SessionServices (790)
+[2024.01.27-00.38.04:038][228]LogModuleManager: Shutting down and abandoning module MeshPaint (788)
+[2024.01.27-00.38.04:038][228]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (786)
+[2024.01.27-00.38.04:038][228]LogModuleManager: Shutting down and abandoning module PlacementMode (785)
+[2024.01.27-00.38.04:038][228]LogModuleManager: Shutting down and abandoning module FoliageEdit (782)
+[2024.01.27-00.38.04:038][228]LogModuleManager: Shutting down and abandoning module LandscapeEditor (780)
+[2024.01.27-00.38.04:038][228]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (778)
+[2024.01.27-00.38.04:038][228]LogModuleManager: Shutting down and abandoning module ActorPickerMode (776)
+[2024.01.27-00.38.04:038][228]LogModuleManager: Shutting down and abandoning module ViewportSnapping (774)
+[2024.01.27-00.38.04:038][228]LogModuleManager: Shutting down and abandoning module EditorWidgets (772)
+[2024.01.27-00.38.04:038][228]LogModuleManager: Shutting down and abandoning module ViewportInteraction (770)
+[2024.01.27-00.38.04:038][228]LogModuleManager: Shutting down and abandoning module ClothPainter (768)
+[2024.01.27-00.38.04:038][228]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (767)
+[2024.01.27-00.38.04:038][228]LogModuleManager: Shutting down and abandoning module LogVisualizer (764)
+[2024.01.27-00.38.04:038][228]LogModuleManager: Shutting down and abandoning module IntroTutorials (762)
+[2024.01.27-00.38.04:038][228]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (760)
+[2024.01.27-00.38.04:039][228]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (758)
+[2024.01.27-00.38.04:039][228]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (757)
+[2024.01.27-00.38.04:039][228]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (755)
+[2024.01.27-00.38.04:758][228]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (752)
+[2024.01.27-00.38.04:758][228]LogModuleManager: Shutting down and abandoning module HoloLensPlatformEditor (750)
+[2024.01.27-00.38.04:758][228]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (748)
+[2024.01.27-00.38.04:758][228]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (746)
+[2024.01.27-00.38.04:758][228]LogModuleManager: Shutting down and abandoning module CSVtoSVG (744)
+[2024.01.27-00.38.04:758][228]LogModuleManager: Shutting down and abandoning module DerivedDataEditor (742)
+[2024.01.27-00.38.04:758][228]LogModuleManager: Shutting down and abandoning module EditorConfig (740)
+[2024.01.27-00.38.04:758][228]LogModuleManager: Shutting down and abandoning module WorldPartitionEditor (738)
+[2024.01.27-00.38.04:758][228]LogModuleManager: Shutting down and abandoning module EditorFramework (736)
+[2024.01.27-00.38.04:758][228]LogModuleManager: Shutting down and abandoning module StaticMeshEditor (734)
+[2024.01.27-00.38.04:758][228]LogModuleManager: Shutting down and abandoning module TraceInsights (732)
+[2024.01.27-00.38.04:758][228]MemoryProfiler: Shutdown
+[2024.01.27-00.38.04:758][228]NetworkingProfiler: Shutdown
+[2024.01.27-00.38.04:758][228]LoadingProfiler: Shutdown
+[2024.01.27-00.38.04:758][228]TimingProfiler: Shutdown
+[2024.01.27-00.38.04:758][228]LogModuleManager: Shutting down and abandoning module TraceServices (731)
+[2024.01.27-00.38.04:758][228]LogModuleManager: Shutting down and abandoning module EditorInteractiveToolsFramework (728)
+[2024.01.27-00.38.04:758][228]LogModuleManager: Shutting down and abandoning module InteractiveToolsFramework (727)
+[2024.01.27-00.38.04:758][228]LogModuleManager: Shutting down and abandoning module InputBindingEditor (724)
+[2024.01.27-00.38.04:758][228]LogModuleManager: Shutting down and abandoning module MergeActors (722)
+[2024.01.27-00.38.04:758][228]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (720)
+[2024.01.27-00.38.04:759][228]LogModuleManager: Shutting down and abandoning module LocalizationService (719)
+[2024.01.27-00.38.04:759][228]LogModuleManager: Shutting down and abandoning module HardwareTargeting (716)
+[2024.01.27-00.38.04:759][228]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (714)
+[2024.01.27-00.38.04:759][228]LogModuleManager: Shutting down and abandoning module UndoHistory (712)
+[2024.01.27-00.38.04:759][228]LogModuleManager: Shutting down and abandoning module XmlParser (710)
+[2024.01.27-00.38.04:759][228]LogModuleManager: Shutting down and abandoning module Blutility (708)
+[2024.01.27-00.38.04:759][228]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (706)
+[2024.01.27-00.38.04:759][228]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (705)
+[2024.01.27-00.38.04:759][228]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (702)
+[2024.01.27-00.38.04:759][228]LogModuleManager: Shutting down and abandoning module InternationalizationSettings (701)
+[2024.01.27-00.38.04:759][228]LogModuleManager: Shutting down and abandoning module SettingsEditor (698)
+[2024.01.27-00.38.04:759][228]LogModuleManager: Shutting down and abandoning module ProjectLauncher (696)
+[2024.01.27-00.38.04:759][228]LogModuleManager: Shutting down and abandoning module SessionFrontend (694)
+[2024.01.27-00.38.04:759][228]LogModuleManager: Shutting down and abandoning module ProfilerClient (692)
+[2024.01.27-00.38.04:759][228]LogModuleManager: Shutting down and abandoning module DeviceManager (690)
+[2024.01.27-00.38.04:759][228]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (689)
+[2024.01.27-00.38.04:770][228]LogModuleManager: Shutting down and abandoning module AutomationController (686)
+[2024.01.27-00.38.04:770][228]LogModuleManager: Shutting down and abandoning module AutomationWindow (684)
+[2024.01.27-00.38.04:770][228]LogModuleManager: Shutting down and abandoning module Layers (682)
+[2024.01.27-00.38.04:770][228]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (680)
+[2024.01.27-00.38.04:770][228]LogModuleManager: Shutting down and abandoning module DetailCustomizations (678)
+[2024.01.27-00.38.04:770][228]LogModuleManager: Shutting down and abandoning module PackagesDialog (676)
+[2024.01.27-00.38.04:770][228]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (674)
+[2024.01.27-00.38.04:770][228]LogModuleManager: Shutting down and abandoning module Persona (672)
+[2024.01.27-00.38.04:770][228]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (671)
+[2024.01.27-00.38.04:770][228]LogModuleManager: Shutting down and abandoning module AnimGraph (669)
+[2024.01.27-00.38.04:770][228]LogModuleManager: Shutting down and abandoning module Kismet (666)
+[2024.01.27-00.38.04:770][228]LogModuleManager: Shutting down and abandoning module KismetWidgets (665)
+[2024.01.27-00.38.04:770][228]LogModuleManager: Shutting down and abandoning module GraphEditor (662)
+[2024.01.27-00.38.04:770][228]LogModuleManager: Shutting down and abandoning module StructViewer (660)
+[2024.01.27-00.38.04:770][228]LogModuleManager: Shutting down and abandoning module ClassViewer (658)
+[2024.01.27-00.38.04:770][228]LogModuleManager: Shutting down and abandoning module NaniteTools (656)
+[2024.01.27-00.38.04:770][228]LogModuleManager: Shutting down and abandoning module UncontrolledChangelists (654)
+[2024.01.27-00.38.04:770][228]LogModuleManager: Shutting down and abandoning module SourceControlWindows (652)
+[2024.01.27-00.38.04:770][228]LogModuleManager: Shutting down and abandoning module OutputLog (650)
+[2024.01.27-00.38.04:771][228]LogModuleManager: Shutting down and abandoning module Documentation (648)
+[2024.01.27-00.38.04:771][228]LogModuleManager: Shutting down and abandoning module LiveCoding (646)
+[2024.01.27-00.38.04:775][228]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (644)
+[2024.01.27-00.38.04:775][228]LogModuleManager: Shutting down and abandoning module MovieScene (642)
+[2024.01.27-00.38.04:775][228]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (640)
+[2024.01.27-00.38.04:775][228]LogModuleManager: Shutting down and abandoning module LauncherPlatform (638)
+[2024.01.27-00.38.04:775][228]LogModuleManager: Shutting down and abandoning module AnalyticsET (636)
+[2024.01.27-00.38.04:775][228]LogModuleManager: Shutting down and abandoning module PortalServices (634)
+[2024.01.27-00.38.04:775][228]LogModuleManager: Shutting down and abandoning module PortalRpc (632)
+[2024.01.27-00.38.04:775][228]LogModuleManager: Shutting down and abandoning module MessagingRpc (630)
+[2024.01.27-00.38.04:775][228]LogModuleManager: Shutting down and abandoning module AudioMixerXAudio2 (628)
+[2024.01.27-00.38.04:775][228]LogModuleManager: Shutting down and abandoning module AudioMixer (627)
+[2024.01.27-00.38.04:775][228]LogModuleManager: Shutting down and abandoning module AudioMixerCore (626)
+[2024.01.27-00.38.04:775][228]LogModuleManager: Shutting down and abandoning module AIModule (622)
+[2024.01.27-00.38.04:775][228]LogModuleManager: Shutting down and abandoning module GameplayDebugger (621)
+[2024.01.27-00.38.04:775][228]LogModuleManager: Shutting down and abandoning module AITestSuite (619)
+[2024.01.27-00.38.04:775][228]LogModuleManager: Shutting down and abandoning module NavigationSystem (617)
+[2024.01.27-00.38.04:775][228]LogModuleManager: Shutting down and abandoning module LevelInstanceEditor (614)
+[2024.01.27-00.38.04:775][228]LogModuleManager: Shutting down and abandoning module TypedElementRuntime (612)
+[2024.01.27-00.38.04:775][228]LogModuleManager: Shutting down and abandoning module TypedElementFramework (610)
+[2024.01.27-00.38.04:775][228]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (608)
+[2024.01.27-00.38.04:775][228]LogModuleManager: Shutting down and abandoning module ProfilerService (606)
+[2024.01.27-00.38.04:992][228]LogModuleManager: Shutting down and abandoning module TaskGraph (604)
+[2024.01.27-00.38.04:992][228]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaEditor (602)
+[2024.01.27-00.38.04:992][228]LogModuleManager: Shutting down and abandoning module MegascansPlugin (600)
+[2024.01.27-00.38.04:992][228]LogModuleManager: Shutting down and abandoning module Bridge (598)
+[2024.01.27-00.38.04:992][228]LogModuleManager: Shutting down and abandoning module InterchangeFbxParser (596)
+[2024.01.27-00.38.04:992][228]LogModuleManager: Shutting down and abandoning module InterchangeDispatcher (594)
+[2024.01.27-00.38.04:992][228]LogModuleManager: Shutting down and abandoning module InterchangePipelines (592)
+[2024.01.27-00.38.04:992][228]LogModuleManager: Shutting down and abandoning module InterchangeExport (590)
+[2024.01.27-00.38.04:992][228]LogModuleManager: Shutting down and abandoning module InterchangeMessages (588)
+[2024.01.27-00.38.04:992][228]LogModuleManager: Shutting down and abandoning module InterchangeImport (586)
+[2024.01.27-00.38.04:992][228]LogModuleManager: Shutting down and abandoning module InterchangeNodes (584)
+[2024.01.27-00.38.04:992][228]LogModuleManager: Shutting down and abandoning module InterchangeResultsBrowser (582)
+[2024.01.27-00.38.04:992][228]LogModuleManager: Shutting down and abandoning module InterchangeEditorPipelines (580)
+[2024.01.27-00.38.04:992][228]LogModuleManager: Shutting down and abandoning module InterchangeEditor (578)
+[2024.01.27-00.38.04:992][228]LogModuleManager: Shutting down and abandoning module ContentBrowserFileDataSource (576)
+[2024.01.27-00.38.04:992][228]LogModuleManager: Shutting down and abandoning module ContentBrowserClassDataSource (574)
+[2024.01.27-00.38.04:992][228]LogModuleManager: Shutting down and abandoning module ContentBrowserAssetDataSource (572)
+[2024.01.27-00.38.04:992][228]LogModuleManager: Shutting down and abandoning module CollectionManager (571)
+[2024.01.27-00.38.04:992][228]LogModuleManager: Shutting down and abandoning module SynthesisEditor (568)
+[2024.01.27-00.38.04:992][228]LogModuleManager: Shutting down and abandoning module Synthesis (566)
+[2024.01.27-00.38.04:992][228]LogModuleManager: Shutting down and abandoning module ResonanceAudio (564)
+[2024.01.27-00.38.04:992][228]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (562)
+[2024.01.27-00.38.04:992][228]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (560)
+[2024.01.27-00.38.04:993][228]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (558)
+[2024.01.27-00.38.04:993][228]LogModuleManager: Shutting down and abandoning module ModelingOperatorsEditorOnly (556)
+[2024.01.27-00.38.04:993][228]LogModuleManager: Shutting down and abandoning module ModelingOperators (554)
+[2024.01.27-00.38.04:993][228]LogModuleManager: Shutting down and abandoning module ModelingComponentsEditorOnly (552)
+[2024.01.27-00.38.04:993][228]LogModuleManager: Shutting down and abandoning module ModelingComponents (550)
+[2024.01.27-00.38.04:993][228]LogModuleManager: Shutting down and abandoning module MeshModelingToolsEditorOnly (548)
+[2024.01.27-00.38.04:993][228]LogModuleManager: Shutting down and abandoning module MeshModelingTools (546)
+[2024.01.27-00.38.04:993][228]LogModuleManager: Shutting down and abandoning module HairStrandsEditor (544)
+[2024.01.27-00.38.04:993][228]LogModuleManager: Shutting down and abandoning module GooglePAD (542)
+[2024.01.27-00.38.04:993][228]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (540)
+[2024.01.27-00.38.04:993][228]LogModuleManager: Shutting down and abandoning module GeometryCacheStreamer (538)
+[2024.01.27-00.38.04:993][228]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (536)
+[2024.01.27-00.38.04:993][228]LogModuleManager: Shutting down and abandoning module DynamicMesh (534)
+[2024.01.27-00.38.04:993][228]LogModuleManager: Shutting down and abandoning module GeometryAlgorithms (532)
+[2024.01.27-00.38.04:993][228]LogModuleManager: Shutting down and abandoning module CableComponent (530)
+[2024.01.27-00.38.04:993][228]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (528)
+[2024.01.27-00.38.04:993][228]LogModuleManager: Shutting down and abandoning module AudioCapture (526)
+[2024.01.27-00.38.04:993][228]LogModuleManager: Shutting down and abandoning module AudioCaptureRtAudio (525)
+[2024.01.27-00.38.04:993][228]LogModuleManager: Shutting down and abandoning module AssetTags (522)
+[2024.01.27-00.38.04:993][228]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (520)
+[2024.01.27-00.38.04:993][228]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (518)
+[2024.01.27-00.38.04:993][228]LogModuleManager: Shutting down and abandoning module AppleImageUtils (516)
+[2024.01.27-00.38.04:993][228]LogModuleManager: Shutting down and abandoning module AndroidPermission (514)
+[2024.01.27-00.38.04:993][228]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (512)
+[2024.01.27-00.38.04:993][228]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (510)
+[2024.01.27-00.38.04:993][228]LogModuleManager: Shutting down and abandoning module OpenImageDenoise (508)
+[2024.01.27-00.38.04:993][228]LogOpenImageDenoise: OIDN shutting down
+[2024.01.27-00.38.04:993][228]LogModuleManager: Shutting down and abandoning module ModelingEditorUI (506)
+[2024.01.27-00.38.04:993][228]LogModuleManager: Shutting down and abandoning module GeometryProcessingAdapters (504)
+[2024.01.27-00.38.04:993][228]LogModuleManager: Shutting down and abandoning module MeshModelingToolsEditorOnlyExp (502)
+[2024.01.27-00.38.04:993][228]LogModuleManager: Shutting down and abandoning module MeshModelingToolsExp (500)
+[2024.01.27-00.38.04:993][228]LogModuleManager: Shutting down and abandoning module MeshLODToolset (498)
+[2024.01.27-00.38.04:993][228]LogModuleManager: Shutting down and abandoning module GeometryFlowMeshProcessingEditor (496)
+[2024.01.27-00.38.04:993][228]LogModuleManager: Shutting down and abandoning module GeometryFlowMeshProcessing (494)
+[2024.01.27-00.38.04:993][228]LogModuleManager: Shutting down and abandoning module GeometryFlowCore (492)
+[2024.01.27-00.38.04:993][228]LogModuleManager: Shutting down and abandoning module GeometryCollectionTracks (490)
+[2024.01.27-00.38.04:993][228]LogModuleManager: Shutting down and abandoning module GeometryCollectionSequencer (489)
+[2024.01.27-00.38.04:993][228]LogModuleManager: Shutting down and abandoning module GeometryCollectionEditor (486)
+[2024.01.27-00.38.04:993][228]LogModuleManager: Shutting down and abandoning module ChaosSolverEditor (484)
+[2024.01.27-00.38.04:993][228]LogModuleManager: Shutting down and abandoning module ChaosNiagara (480)
+[2024.01.27-00.38.04:993][228]LogModuleManager: Shutting down and abandoning module TemplateSequence (478)
+[2024.01.27-00.38.04:993][228]LogModuleManager: Shutting down and abandoning module FractureEditor (476)
+[2024.01.27-00.38.04:993][228]LogModuleManager: Shutting down and abandoning module ChaosClothEditor (474)
+[2024.01.27-00.38.04:993][228]LogModuleManager: Shutting down and abandoning module SequencerScriptingEditor (472)
+[2024.01.27-00.38.04:993][228]LogModuleManager: Shutting down and abandoning module SequencerScripting (470)
+[2024.01.27-00.38.04:993][228]LogModuleManager: Shutting down and abandoning module BackChannel (468)
+[2024.01.27-00.38.04:993][228]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (466)
+[2024.01.27-00.38.04:993][228]LogModuleManager: Shutting down and abandoning module AutomationUtils (464)
+[2024.01.27-00.38.04:993][228]LogModuleManager: Shutting down and abandoning module ControlRigSpline (462)
+[2024.01.27-00.38.04:993][228]LogModuleManager: Shutting down and abandoning module BlendSpaceMotionAnalysis (460)
+[2024.01.27-00.38.04:993][228]LogModuleManager: Shutting down and abandoning module NiagaraEditorWidgets (458)
+[2024.01.27-00.38.04:993][228]LogModuleManager: Shutting down and abandoning module MediaCompositing (456)
+[2024.01.27-00.38.04:993][228]LogModuleManager: Shutting down and abandoning module ImgMedia (454)
+[2024.01.27-00.38.04:994][228]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (452)
+[2024.01.27-00.38.04:994][228]LogModuleManager: Shutting down and abandoning module AlembicImporter (450)
+[2024.01.27-00.38.04:994][228]LogModuleManager: Shutting down and abandoning module AlembicLibrary (449)
+[2024.01.27-00.38.04:994][228]LogModuleManager: Shutting down and abandoning module GeometryCache (448)
+[2024.01.27-00.38.04:994][228]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (447)
+[2024.01.27-00.38.04:994][228]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (442)
+[2024.01.27-00.38.04:994][228]LogModuleManager: Shutting down and abandoning module UObjectPlugin (440)
+[2024.01.27-00.38.04:994][228]LogModuleManager: Shutting down and abandoning module UnrealInsightsInterface (438)
+[2024.01.27-00.38.04:994][228]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (436)
+[2024.01.27-00.38.04:994][228]LogModuleManager: Shutting down and abandoning module RiderSourceCodeAccess (434)
+[2024.01.27-00.38.04:994][228]LogModuleManager: Shutting down and abandoning module PluginUtils (432)
+[2024.01.27-00.38.04:994][228]LogModuleManager: Shutting down and abandoning module PlasticSourceControl (430)
+[2024.01.27-00.38.04:994][228]LogModuleManager: Shutting down and abandoning module GitSourceControl (428)
+[2024.01.27-00.38.04:994][228]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (426)
+[2024.01.27-00.38.04:994][228]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (424)
+[2024.01.27-00.38.04:994][228]LogModuleManager: Shutting down and abandoning module PluginBrowser (422)
+[2024.01.27-00.38.04:994][228]LogModuleManager: Shutting down and abandoning module VariantManagerContentEditor (420)
+[2024.01.27-00.38.04:994][228]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (418)
+[2024.01.27-00.38.04:994][228]LogModuleManager: Shutting down and abandoning module WorldPartitionHLODUtilities (416)
+[2024.01.27-00.38.04:994][228]LogModuleManager: Shutting down and abandoning module StylusInput (414)
+[2024.01.27-00.38.04:994][228]LogModuleManager: Shutting down and abandoning module SequencerAnimTools (412)
+[2024.01.27-00.38.04:994][228]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (410)
+[2024.01.27-00.38.04:994][228]LogModuleManager: Shutting down and abandoning module ModelingToolsEditorMode (408)
+[2024.01.27-00.38.04:994][228]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (406)
+[2024.01.27-00.38.04:994][228]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (404)
+[2024.01.27-00.38.04:994][228]LogModuleManager: Shutting down and abandoning module EditorScriptingUtilities (402)
+[2024.01.27-00.38.04:994][228]LogModuleManager: Shutting down and abandoning module EditorDebugTools (400)
+[2024.01.27-00.38.04:994][228]LogModuleManager: Shutting down and abandoning module CurveEditorTools (398)
+[2024.01.27-00.38.04:994][228]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (396)
+[2024.01.27-00.38.04:994][228]LogModuleManager: Shutting down and abandoning module CryptoKeys (394)
+[2024.01.27-00.38.04:994][228]LogModuleManager: Shutting down and abandoning module OodleNetworkHandlerComponent (392)
+[2024.01.27-00.38.04:994][228]LogModuleManager: Shutting down and abandoning module AnimationModifierLibrary (390)
+[2024.01.27-00.38.04:994][228]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (388)
+[2024.01.27-00.38.04:994][228]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (386)
+[2024.01.27-00.38.04:994][228]LogModuleManager: Shutting down and abandoning module Paper2DEditor (384)
+[2024.01.27-00.38.04:994][228]LogModuleManager: Shutting down and abandoning module MeshPaintingToolset (382)
+[2024.01.27-00.38.04:994][228]LogModuleManager: Shutting down and abandoning module MeshPaintEditorMode (380)
+[2024.01.27-00.38.04:994][228]LogModuleManager: Shutting down and abandoning module SoundFields (378)
+[2024.01.27-00.38.04:994][228]LogModuleManager: Shutting down and abandoning module SignificanceManager (376)
+[2024.01.27-00.38.04:994][228]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (374)
+[2024.01.27-00.38.04:994][228]LogModuleManager: Shutting down and abandoning module PropertyAccessEditor (372)
+[2024.01.27-00.38.04:995][228]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (370)
+[2024.01.27-00.38.04:995][228]LogModuleManager: Shutting down and abandoning module AudioSynesthesia (368)
+[2024.01.27-00.38.04:995][228]LogModuleManager: Shutting down and abandoning module AudioAnalyzer (367)
+[2024.01.27-00.38.04:995][228]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaCore (364)
+[2024.01.27-00.38.04:995][228]LogModuleManager: Shutting down and abandoning module PythonScriptPlugin (362)
+[2024.01.27-00.38.04:997][228]LogModuleManager: Shutting down and abandoning module IKRigDeveloper (360)
+[2024.01.27-00.38.04:997][228]LogModuleManager: Shutting down and abandoning module IKRig (358)
+[2024.01.27-00.38.04:997][228]LogModuleManager: Shutting down and abandoning module PBIK (356)
+[2024.01.27-00.38.04:997][228]LogModuleManager: Shutting down and abandoning module FullBodyIK (354)
+[2024.01.27-00.38.04:997][228]LogModuleManager: Shutting down and abandoning module ControlRigDeveloper (352)
+[2024.01.27-00.38.04:997][228]LogModuleManager: Shutting down and abandoning module ControlRig (350)
+[2024.01.27-00.38.04:997][228]LogModuleManager: Shutting down and abandoning module LevelSequence (349)
+[2024.01.27-00.38.04:997][228]LogModuleManager: Shutting down and abandoning module ActorSequence (346)
+[2024.01.27-00.38.04:997][228]LogModuleManager: Shutting down and abandoning module NiagaraAnimNotifies (344)
+[2024.01.27-00.38.04:997][228]LogModuleManager: Shutting down and abandoning module Niagara (342)
+[2024.01.27-00.38.04:997][228]LogModuleManager: Shutting down and abandoning module SignalProcessing (341)
+[2024.01.27-00.38.04:997][228]LogModuleManager: Shutting down and abandoning module NiagaraEditor (339)
+[2024.01.27-00.38.04:997][228]LogModuleManager: Shutting down and abandoning module NiagaraCore (336)
+[2024.01.27-00.38.04:997][228]LogModuleManager: Shutting down and abandoning module UdpMessaging (334)
+[2024.01.27-00.38.05:098][228]LogModuleManager: Shutting down and abandoning module TcpMessaging (332)
+[2024.01.27-00.38.05:198][228]LogModuleManager: Shutting down and abandoning module ImgMediaEngine (330)
+[2024.01.27-00.38.05:198][228]LogModuleManager: Shutting down and abandoning module TraceDataFiltering (328)
+[2024.01.27-00.38.05:198][228]LogModuleManager: Shutting down and abandoning module PropertyAccessNode (326)
+[2024.01.27-00.38.05:198][228]LogModuleManager: Shutting down and abandoning module AnimationSharing (324)
+[2024.01.27-00.38.05:198][228]LogModuleManager: Shutting down and abandoning module GameplayCameras (322)
+[2024.01.27-00.38.05:198][228]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (320)
+[2024.01.27-00.38.05:198][228]LogModuleManager: Shutting down and abandoning module FacialAnimation (318)
+[2024.01.27-00.38.05:198][228]LogModuleManager: Shutting down and abandoning module DataValidation (316)
+[2024.01.27-00.38.05:198][228]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (314)
+[2024.01.27-00.38.05:198][228]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (312)
+[2024.01.27-00.38.05:198][228]LogModuleManager: Shutting down and abandoning module LevelEditor (311)
+[2024.01.27-00.38.05:201][228]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (310)
+[2024.01.27-00.38.05:201][228]LogModuleManager: Shutting down and abandoning module LevelAssetEditor (308)
+[2024.01.27-00.38.05:201][228]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (306)
+[2024.01.27-00.38.05:201][228]LogModuleManager: Shutting down and abandoning module MainFrame (304)
+[2024.01.27-00.38.05:201][228]LogModuleManager: Shutting down and abandoning module HotReload (303)
+[2024.01.27-00.38.05:202][228]LogModuleManager: Shutting down and abandoning module ContentBrowser (299)
+[2024.01.27-00.38.05:202][228]LogModuleManager: Shutting down and abandoning module ToolMenus (298)
+[2024.01.27-00.38.05:202][228]LogModuleManager: Shutting down and abandoning module ContentBrowserData (296)
+[2024.01.27-00.38.05:202][228]LogModuleManager: Shutting down and abandoning module TreeMap (293)
+[2024.01.27-00.38.05:202][228]LogModuleManager: Shutting down and abandoning module EnvironmentQueryEditor (290)
+[2024.01.27-00.38.05:202][228]LogModuleManager: Shutting down and abandoning module Paper2D (288)
+[2024.01.27-00.38.05:202][228]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (286)
+[2024.01.27-00.38.05:202][228]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (284)
+[2024.01.27-00.38.05:202][228]LogModuleManager: Shutting down and abandoning module AndroidFileServer (282)
+[2024.01.27-00.38.05:202][228]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (280)
+[2024.01.27-00.38.05:202][228]LogModuleManager: Shutting down and abandoning module PacketHandler (278)
+[2024.01.27-00.38.05:202][228]LogModuleManager: Shutting down and abandoning module AnimationDataController (276)
+[2024.01.27-00.38.05:202][228]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (274)
+[2024.01.27-00.38.05:202][228]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntimeNv (272)
+[2024.01.27-00.38.05:202][228]LogModuleManager: Shutting down and abandoning module MediaAssets (270)
+[2024.01.27-00.38.05:202][228]LogModuleManager: Shutting down and abandoning module Overlay (268)
+[2024.01.27-00.38.05:202][228]LogModuleManager: Shutting down and abandoning module OverlayEditor (267)
+[2024.01.27-00.38.05:202][228]LogModuleManager: Shutting down and abandoning module VREditor (264)
+[2024.01.27-00.38.05:202][228]LogModuleManager: Shutting down and abandoning module StringTableEditor (262)
+[2024.01.27-00.38.05:202][228]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (260)
+[2024.01.27-00.38.05:202][228]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (258)
+[2024.01.27-00.38.05:202][228]LogModuleManager: Shutting down and abandoning module FunctionalTesting (256)
+[2024.01.27-00.38.05:202][228]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (254)
+[2024.01.27-00.38.05:202][228]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (253)
+[2024.01.27-00.38.05:202][228]LogModuleManager: Shutting down and abandoning module UMG (250)
+[2024.01.27-00.38.05:202][228]LogModuleManager: Shutting down and abandoning module UMGEditor (249)
+[2024.01.27-00.38.05:202][228]LogModuleManager: Shutting down and abandoning module SlateReflector (244)
+[2024.01.27-00.38.05:202][228]LogModuleManager: Shutting down and abandoning module Slate (242)
+[2024.01.27-00.38.05:202][228]LogModuleManager: Shutting down and abandoning module SlateCore (240)
+[2024.01.27-00.38.05:203][228]LogModuleManager: Shutting down and abandoning module SubobjectDataInterface (238)
+[2024.01.27-00.38.05:203][228]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (236)
+[2024.01.27-00.38.05:203][228]LogModuleManager: Shutting down and abandoning module UnrealEd (234)
+[2024.01.27-00.38.05:203][228]LogModuleManager: Shutting down and abandoning module MRMesh (232)
+[2024.01.27-00.38.05:203][228]LogModuleManager: Shutting down and abandoning module Messaging (230)
+[2024.01.27-00.38.05:203][228]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (228)
+[2024.01.27-00.38.05:203][228]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (226)
+[2024.01.27-00.38.05:203][228]LogModuleManager: Shutting down and abandoning module Networking (224)
+[2024.01.27-00.38.05:203][228]LogModuleManager: Shutting down and abandoning module Core (222)
+[2024.01.27-00.38.05:203][228]LogModuleManager: Shutting down and abandoning module MaterialEditor (220)
+[2024.01.27-00.38.05:203][228]LogModuleManager: Shutting down and abandoning module MovieSceneTools (218)
+[2024.01.27-00.38.05:203][228]LogModuleManager: Shutting down and abandoning module CurveEditor (217)
+[2024.01.27-00.38.05:204][228]LogModuleManager: Shutting down and abandoning module Sequencer (215)
+[2024.01.27-00.38.05:204][228]LogModuleManager: Shutting down and abandoning module EditorStyle (214)
+[2024.01.27-00.38.05:204][228]LogModuleManager: Shutting down and abandoning module KismetCompiler (210)
+[2024.01.27-00.38.05:204][228]LogModuleManager: Shutting down and abandoning module MeshBuilder (208)
+[2024.01.27-00.38.05:204][228]LogModuleManager: Shutting down and abandoning module NaniteBuilder (206)
+[2024.01.27-00.38.05:204][228]LogModuleManager: Shutting down and abandoning module MeshUtilities (204)
+[2024.01.27-00.38.05:204][228]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (203)
+[2024.01.27-00.38.05:204][228]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (202)
+[2024.01.27-00.38.05:204][228]LogModuleManager: Shutting down and abandoning module MeshBoneReduction (201)
+[2024.01.27-00.38.05:204][228]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (199)
+[2024.01.27-00.38.05:204][228]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (197)
+[2024.01.27-00.38.05:204][228]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (195)
+[2024.01.27-00.38.05:204][228]LogModuleManager: Shutting down and abandoning module MaterialBaking (191)
+[2024.01.27-00.38.05:204][228]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (186)
+[2024.01.27-00.38.05:204][228]LogModuleManager: Shutting down and abandoning module DerivedDataCache (184)
+[2024.01.27-00.38.05:206][228]LogModuleManager: Shutting down and abandoning module TargetPlatform (182)
+[2024.01.27-00.38.05:206][228]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (181)
+[2024.01.27-00.38.05:206][228]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (179)
+[2024.01.27-00.38.05:206][228]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (177)
+[2024.01.27-00.38.05:206][228]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (175)
+[2024.01.27-00.38.05:206][228]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (173)
+[2024.01.27-00.38.05:206][228]LogModuleManager: Shutting down and abandoning module AudioFormatBink (171)
+[2024.01.27-00.38.05:206][228]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (169)
+[2024.01.27-00.38.05:206][228]LogModuleManager: Shutting down and abandoning module AudioFormatOGG (167)
+[2024.01.27-00.38.05:206][228]LogModuleManager: Shutting down and abandoning module AudioFormatOPUS (165)
+[2024.01.27-00.38.05:206][228]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (163)
+[2024.01.27-00.38.05:206][228]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (161)
+[2024.01.27-00.38.05:207][228]LogModuleManager: Shutting down and abandoning module LinuxArm64TargetPlatform (159)
+[2024.01.27-00.38.05:207][228]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (157)
+[2024.01.27-00.38.05:207][228]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (155)
+[2024.01.27-00.38.05:207][228]LogModuleManager: Shutting down and abandoning module HoloLensTargetPlatform (153)
+[2024.01.27-00.38.05:207][228]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (151)
+[2024.01.27-00.38.05:207][228]LogModuleManager: Shutting down and abandoning module TextureFormat (149)
+[2024.01.27-00.38.05:207][228]LogModuleManager: Shutting down and abandoning module TextureFormatOodle (148)
+[2024.01.27-00.38.05:207][228]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (146)
+[2024.01.27-00.38.05:207][228]LogModuleManager: Shutting down and abandoning module TextureFormatETC2 (144)
+[2024.01.27-00.38.05:207][228]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (142)
+[2024.01.27-00.38.05:207][228]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (140)
+[2024.01.27-00.38.05:207][228]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (138)
+[2024.01.27-00.38.05:207][228]LogModuleManager: Shutting down and abandoning module ImageWrapper (137)
+[2024.01.27-00.38.05:207][228]LogModuleManager: Shutting down and abandoning module TurnkeySupport (133)
+[2024.01.27-00.38.05:207][228]LogModuleManager: Shutting down and abandoning module InputCore (130)
+[2024.01.27-00.38.05:207][228]LogModuleManager: Shutting down and abandoning module Settings (128)
+[2024.01.27-00.38.05:207][228]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (126)
+[2024.01.27-00.38.05:207][228]LogModuleManager: Shutting down and abandoning module ChaosSolverEngine (124)
+[2024.01.27-00.38.05:207][228]LogModuleManager: Shutting down and abandoning module FieldSystemEngine (123)
+[2024.01.27-00.38.05:207][228]LogModuleManager: Shutting down and abandoning module Chaos (120)
+[2024.01.27-00.38.05:207][228]LogModuleManager: Shutting down and abandoning module GeometryCore (119)
+[2024.01.27-00.38.05:207][228]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (116)
+[2024.01.27-00.38.05:207][228]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (115)
+[2024.01.27-00.38.05:207][228]LogModuleManager: Shutting down and abandoning module AVEncoder (114)
+[2024.01.27-00.38.05:207][228]LogModuleManager: Shutting down and abandoning module D3D12RHI (110)
+[2024.01.27-00.38.05:207][228]LogModuleManager: Shutting down and abandoning module OnlineServicesCommon (108)
+[2024.01.27-00.38.05:207][228]LogModuleManager: Shutting down and abandoning module OnlineServicesInterface (106)
+[2024.01.27-00.38.05:207][228]LogModuleManager: Shutting down and abandoning module WindowsDeviceProfileSelector (104)
+[2024.01.27-00.38.05:207][228]LogModuleManager: Shutting down and abandoning module HairStrandsCore (102)
+[2024.01.27-00.38.05:207][228]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (100)
+[2024.01.27-00.38.05:207][228]LogModuleManager: Shutting down and abandoning module ChunkDownloader (98)
+[2024.01.27-00.38.05:207][228]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (96)
+[2024.01.27-00.38.05:207][228]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (94)
+[2024.01.27-00.38.05:207][228]LogModuleManager: Shutting down and abandoning module OnlineSubsystemUtils (92)
+[2024.01.27-00.38.05:207][228]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (90)
+[2024.01.27-00.38.05:209][228]LogModuleManager: Shutting down and abandoning module XMPP (85)
+[2024.01.27-00.38.05:209][228]LogModuleManager: Shutting down and abandoning module WebSockets (84)
+[2024.01.27-00.38.05:226][228]LogModuleManager: Shutting down and abandoning module HTTP (81)
+[2024.01.27-00.38.05:226][228]LogHttp: Warning: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2024.01.27-00.38.05:226][228]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B22EF31B1-487D-2C73-5196-BBB5D792CCDA%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.3-20979098%2B%2B%2BUE5%2BRelease-5.0&UserID=b9f8f4f04e60e4a44b9390bd9673570f%7Ca2ac3d6f84d64cdbb7903883f6185c6f%7Cb7c6c57e-9ea6-41aa-a93b-420f550928a0&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[1] status=Processing
+[2024.01.27-00.38.05:226][228]LogHttp: Warning: Cleaning up 1 outstanding Http requests.
+[2024.01.27-00.38.05:261][228]LogModuleManager: Shutting down and abandoning module SSL (80)
+[2024.01.27-00.38.05:262][228]LogModuleManager: Shutting down and abandoning module ChaosCloth (76)
+[2024.01.27-00.38.05:262][228]LogModuleManager: Shutting down and abandoning module NiagaraVertexFactories (74)
+[2024.01.27-00.38.05:262][228]LogModuleManager: Shutting down and abandoning module NiagaraShader (72)
+[2024.01.27-00.38.05:262][228]LogModuleManager: Shutting down and abandoning module WmfMedia (70)
+[2024.01.27-00.38.05:264][228]LogModuleManager: Shutting down and abandoning module Media (69)
+[2024.01.27-00.38.05:265][228]LogModuleManager: Shutting down and abandoning module ExrReaderGpu (66)
+[2024.01.27-00.38.05:265][228]LogModuleManager: Shutting down and abandoning module PixWinPlugin (64)
+[2024.01.27-00.38.05:265][228]LogModuleManager: Shutting down and abandoning module VariantManagerContent (62)
+[2024.01.27-00.38.05:265][228]LogModuleManager: Shutting down and abandoning module DatasmithContent (60)
+[2024.01.27-00.38.05:265][228]LogModuleManager: Shutting down and abandoning module AISupportModule (58)
+[2024.01.27-00.38.05:265][228]LogModuleManager: Shutting down and abandoning module DesktopPlatform (56)
+[2024.01.27-00.38.05:265][228]LogModuleManager: Shutting down and abandoning module PythonScriptPluginPreload (54)
+[2024.01.27-00.38.05:265][228]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (52)
+[2024.01.27-00.38.05:265][228]LogModuleManager: Shutting down and abandoning module PlatformCryptoTypes (50)
+[2024.01.27-00.38.05:265][228]LogModuleManager: Shutting down and abandoning module PlatformCrypto (48)
+[2024.01.27-00.38.05:265][228]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (46)
+[2024.01.27-00.38.05:266][228]LogModuleManager: Shutting down and abandoning module SourceControl (45)
+[2024.01.27-00.38.05:266][228]LogModuleManager: Shutting down and abandoning module XGEController (42)
+[2024.01.27-00.38.05:266][228]LogModuleManager: Shutting down and abandoning module FastBuildController (40)
+[2024.01.27-00.38.05:266][228]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2024.01.27-00.38.05:266][228]LogModuleManager: Shutting down and abandoning module AudioEditor (36)
+[2024.01.27-00.38.05:266][228]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2024.01.27-00.38.05:266][228]LogModuleManager: Shutting down and abandoning module Virtualization (32)
+[2024.01.27-00.38.05:266][228]LogModuleManager: Shutting down and abandoning module MessageLog (31)
+[2024.01.27-00.38.05:266][228]LogModuleManager: Shutting down and abandoning module TextureCompressor (28)
+[2024.01.27-00.38.05:266][228]LogModuleManager: Shutting down and abandoning module RenderCore (26)
+[2024.01.27-00.38.05:266][228]LogModuleManager: Shutting down and abandoning module Landscape (24)
+[2024.01.27-00.38.05:266][228]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (22)
+[2024.01.27-00.38.05:267][228]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2024.01.27-00.38.05:267][228]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2024.01.27-00.38.05:267][228]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2024.01.27-00.38.05:267][228]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2024.01.27-00.38.05:267][228]LogModuleManager: Shutting down and abandoning module SandboxFile (12)
+[2024.01.27-00.38.05:267][228]LogModuleManager: Shutting down and abandoning module PakFile (10)
+[2024.01.27-00.38.05:267][228]LogModuleManager: Shutting down and abandoning module RSA (9)
+[2024.01.27-00.38.05:267][228]LogModuleManager: Shutting down and abandoning module NetworkFile (6)
+[2024.01.27-00.38.05:267][228]LogModuleManager: Shutting down and abandoning module StreamingFile (4)
+[2024.01.27-00.38.05:267][228]LogModuleManager: Shutting down and abandoning module StorageServerClient (2)
+[2024.01.27-00.38.05:314][228]LogD3D12RHI: Display: D3D12 ReleaseResources: 319 items to release
+[2024.01.27-00.38.05:314][228]LogD3D12RHI: Display: D3D12 ReleaseResources: "BackBuffer0", 1936 x 1056 x 1, Mips: 1, Format: 0x18, Flags: 0x1
+[2024.01.27-00.38.05:314][228]LogD3D12RHI: Display: D3D12 ReleaseResources: "BackBuffer1", 1936 x 1056 x 1, Mips: 1, Format: 0x18, Flags: 0x1
+[2024.01.27-00.38.05:314][228]LogD3D12RHI: Display: D3D12 ReleaseResources: "BackBuffer2", 1936 x 1056 x 1, Mips: 1, Format: 0x18, Flags: 0x1
+[2024.01.27-00.38.05:315][228]LogD3D12RHI: Display: D3D12 ReleaseResources: "Scene view state exposure readback", 16 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2024.01.27-00.38.05:315][228]LogD3D12RHI: Display: D3D12 ReleaseResources: "Scene view state exposure readback", 16 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2024.01.27-00.38.05:315][228]LogD3D12RHI: Display: D3D12 ReleaseResources: "Scene view state exposure readback", 16 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2024.01.27-00.38.05:315][228]LogD3D12RHI: Display: D3D12 ReleaseResources: "Scene view state exposure readback", 16 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2024.01.27-00.38.05:316][228]LogD3D12RHI: Display: D3D12 ReleaseResources: "HitProxyCPUTexture", 3594200 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2024.01.27-00.38.05:316][228]LogD3D12RHI: Display: D3D12 ReleaseResources: "HitProxyTexture", 1526 x 585 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2024.01.27-00.38.05:316][228]LogD3D12RHI: Display: D3D12 ReleaseResources: "BufferedRT", 1526 x 585 x 1, Mips: 1, Format: 0x18, Flags: 0x1
+[2024.01.27-00.38.05:316][228]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 256 x 256 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2024.01.27-00.38.05:316][228]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 137 x 137 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2024.01.27-00.38.05:316][228]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 137 x 137 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2024.01.27-00.38.05:316][228]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 137 x 137 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2024.01.27-00.38.05:317][228]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 137 x 137 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2024.01.27-00.38.05:317][228]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 137 x 137 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2024.01.27-00.38.05:317][228]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 137 x 137 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2024.01.27-00.38.05:317][228]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 256 x 256 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2024.01.27-00.38.05:317][228]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 256 x 256 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2024.01.27-00.38.05:317][228]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 256 x 256 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2024.01.27-00.38.05:317][228]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 256 x 256 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2024.01.27-00.38.05:317][228]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 256 x 256 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2024.01.27-00.38.05:318][228]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.VoxelVisBuffer", 25165824 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x4
+[2024.01.27-00.38.05:318][228]LogD3D12RHI: Display: D3D12 ReleaseResources: "BackBuffer0", 512 x 256 x 1, Mips: 1, Format: 0x18, Flags: 0x1
+[2024.01.27-00.38.05:318][228]LogD3D12RHI: Display: D3D12 ReleaseResources: "BackBuffer1", 512 x 256 x 1, Mips: 1, Format: 0x18, Flags: 0x1
+[2024.01.27-00.38.05:318][228]LogD3D12RHI: Display: D3D12 ReleaseResources: "BackBuffer2", 512 x 256 x 1, Mips: 1, Format: 0x18, Flags: 0x1
+[2024.01.27-00.38.05:319][228]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStatePosition_0", 1024 x 1024 x 1, Mips: 1, Format: 0x2, Flags: 0x1
+[2024.01.27-00.38.05:319][228]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStateVelocity_0", 1024 x 1024 x 1, Mips: 1, Format: 0xA, Flags: 0x1
+[2024.01.27-00.38.05:319][228]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStatePosition_1", 1024 x 1024 x 1, Mips: 1, Format: 0x2, Flags: 0x1
+[2024.01.27-00.38.05:319][228]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStateVelocity_1", 1024 x 1024 x 1, Mips: 1, Format: 0xA, Flags: 0x1
+[2024.01.27-00.38.05:320][228]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleAttributes", 1024 x 1024 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2024.01.27-00.38.05:320][228]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleAttributes", 1024 x 1024 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2024.01.27-00.38.05:320][228]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStatePosition_0", 1024 x 1024 x 1, Mips: 1, Format: 0x2, Flags: 0x1
+[2024.01.27-00.38.05:320][228]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStateVelocity_0", 1024 x 1024 x 1, Mips: 1, Format: 0xA, Flags: 0x1
+[2024.01.27-00.38.05:321][228]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStatePosition_1", 1024 x 1024 x 1, Mips: 1, Format: 0x2, Flags: 0x1
+[2024.01.27-00.38.05:322][228]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStateVelocity_1", 1024 x 1024 x 1, Mips: 1, Format: 0xA, Flags: 0x1
+[2024.01.27-00.38.05:322][228]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleAttributes", 1024 x 1024 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2024.01.27-00.38.05:322][228]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleAttributes", 1024 x 1024 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2024.01.27-00.38.05:322][228]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStatePosition_0", 1024 x 1024 x 1, Mips: 1, Format: 0x2, Flags: 0x1
+[2024.01.27-00.38.05:322][228]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStateVelocity_0", 1024 x 1024 x 1, Mips: 1, Format: 0xA, Flags: 0x1
+[2024.01.27-00.38.05:323][228]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStatePosition_1", 1024 x 1024 x 1, Mips: 1, Format: 0x2, Flags: 0x1
+[2024.01.27-00.38.05:323][228]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStateVelocity_1", 1024 x 1024 x 1, Mips: 1, Format: 0xA, Flags: 0x1
+[2024.01.27-00.38.05:323][228]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleAttributes", 1024 x 1024 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2024.01.27-00.38.05:323][228]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleAttributes", 1024 x 1024 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2024.01.27-00.38.05:323][228]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStatePosition_0", 1024 x 1024 x 1, Mips: 1, Format: 0x2, Flags: 0x1
+[2024.01.27-00.38.05:323][228]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStateVelocity_0", 1024 x 1024 x 1, Mips: 1, Format: 0xA, Flags: 0x1
+[2024.01.27-00.38.05:323][228]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStatePosition_1", 1024 x 1024 x 1, Mips: 1, Format: 0x2, Flags: 0x1
+[2024.01.27-00.38.05:324][228]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStateVelocity_1", 1024 x 1024 x 1, Mips: 1, Format: 0xA, Flags: 0x1
+[2024.01.27-00.38.05:324][228]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleAttributes", 1024 x 1024 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2024.01.27-00.38.05:324][228]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleAttributes", 1024 x 1024 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2024.01.27-00.38.05:324][228]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStatePosition_0", 1024 x 1024 x 1, Mips: 1, Format: 0x2, Flags: 0x1
+[2024.01.27-00.38.05:324][228]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStateVelocity_0", 1024 x 1024 x 1, Mips: 1, Format: 0xA, Flags: 0x1
+[2024.01.27-00.38.05:324][228]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStatePosition_1", 1024 x 1024 x 1, Mips: 1, Format: 0x2, Flags: 0x1
+[2024.01.27-00.38.05:325][228]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStateVelocity_1", 1024 x 1024 x 1, Mips: 1, Format: 0xA, Flags: 0x1
+[2024.01.27-00.38.05:325][228]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleAttributes", 1024 x 1024 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2024.01.27-00.38.05:325][228]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleAttributes", 1024 x 1024 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2024.01.27-00.38.05:325][228]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStatePosition_0", 1024 x 1024 x 1, Mips: 1, Format: 0x2, Flags: 0x1
+[2024.01.27-00.38.05:325][228]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStateVelocity_0", 1024 x 1024 x 1, Mips: 1, Format: 0xA, Flags: 0x1
+[2024.01.27-00.38.05:326][228]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStatePosition_1", 1024 x 1024 x 1, Mips: 1, Format: 0x2, Flags: 0x1
+[2024.01.27-00.38.05:326][228]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStateVelocity_1", 1024 x 1024 x 1, Mips: 1, Format: 0xA, Flags: 0x1
+[2024.01.27-00.38.05:327][228]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleAttributes", 1024 x 1024 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2024.01.27-00.38.05:327][228]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleAttributes", 1024 x 1024 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2024.01.27-00.38.05:327][228]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStatePosition_0", 1024 x 1024 x 1, Mips: 1, Format: 0x2, Flags: 0x1
+[2024.01.27-00.38.05:327][228]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStateVelocity_0", 1024 x 1024 x 1, Mips: 1, Format: 0xA, Flags: 0x1
+[2024.01.27-00.38.05:328][228]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStatePosition_1", 1024 x 1024 x 1, Mips: 1, Format: 0x2, Flags: 0x1
+[2024.01.27-00.38.05:328][228]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStateVelocity_1", 1024 x 1024 x 1, Mips: 1, Format: 0xA, Flags: 0x1
+[2024.01.27-00.38.05:328][228]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleAttributes", 1024 x 1024 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2024.01.27-00.38.05:328][228]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleAttributes", 1024 x 1024 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2024.01.27-00.38.05:328][228]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStatePosition_0", 1024 x 1024 x 1, Mips: 1, Format: 0x2, Flags: 0x1
+[2024.01.27-00.38.05:329][228]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStateVelocity_0", 1024 x 1024 x 1, Mips: 1, Format: 0xA, Flags: 0x1
+[2024.01.27-00.38.05:329][228]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStatePosition_1", 1024 x 1024 x 1, Mips: 1, Format: 0x2, Flags: 0x1
+[2024.01.27-00.38.05:329][228]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStateVelocity_1", 1024 x 1024 x 1, Mips: 1, Format: 0xA, Flags: 0x1
+[2024.01.27-00.38.05:329][228]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleAttributes", 1024 x 1024 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2024.01.27-00.38.05:329][228]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleAttributes", 1024 x 1024 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2024.01.27-00.38.05:329][228]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStatePosition_0", 1024 x 1024 x 1, Mips: 1, Format: 0x2, Flags: 0x1
+[2024.01.27-00.38.05:330][228]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStateVelocity_0", 1024 x 1024 x 1, Mips: 1, Format: 0xA, Flags: 0x1
+[2024.01.27-00.38.05:330][228]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStatePosition_1", 1024 x 1024 x 1, Mips: 1, Format: 0x2, Flags: 0x1
+[2024.01.27-00.38.05:330][228]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStateVelocity_1", 1024 x 1024 x 1, Mips: 1, Format: 0xA, Flags: 0x1
+[2024.01.27-00.38.05:330][228]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleAttributes", 1024 x 1024 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2024.01.27-00.38.05:330][228]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleAttributes", 1024 x 1024 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2024.01.27-00.38.05:330][228]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStatePosition_0", 1024 x 1024 x 1, Mips: 1, Format: 0x2, Flags: 0x1
+[2024.01.27-00.38.05:331][228]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStateVelocity_0", 1024 x 1024 x 1, Mips: 1, Format: 0xA, Flags: 0x1
+[2024.01.27-00.38.05:331][228]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStatePosition_1", 1024 x 1024 x 1, Mips: 1, Format: 0x2, Flags: 0x1
+[2024.01.27-00.38.05:331][228]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStateVelocity_1", 1024 x 1024 x 1, Mips: 1, Format: 0xA, Flags: 0x1
+[2024.01.27-00.38.05:331][228]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleAttributes", 1024 x 1024 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2024.01.27-00.38.05:331][228]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleAttributes", 1024 x 1024 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2024.01.27-00.38.05:331][228]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStatePosition_0", 1024 x 1024 x 1, Mips: 1, Format: 0x2, Flags: 0x1
+[2024.01.27-00.38.05:332][228]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStateVelocity_0", 1024 x 1024 x 1, Mips: 1, Format: 0xA, Flags: 0x1
+[2024.01.27-00.38.05:332][228]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStatePosition_1", 1024 x 1024 x 1, Mips: 1, Format: 0x2, Flags: 0x1
+[2024.01.27-00.38.05:332][228]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStateVelocity_1", 1024 x 1024 x 1, Mips: 1, Format: 0xA, Flags: 0x1
+[2024.01.27-00.38.05:332][228]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleAttributes", 1024 x 1024 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2024.01.27-00.38.05:332][228]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleAttributes", 1024 x 1024 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2024.01.27-00.38.05:333][228]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStatePosition_0", 1024 x 1024 x 1, Mips: 1, Format: 0x2, Flags: 0x1
+[2024.01.27-00.38.05:333][228]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStateVelocity_0", 1024 x 1024 x 1, Mips: 1, Format: 0xA, Flags: 0x1
+[2024.01.27-00.38.05:333][228]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStatePosition_1", 1024 x 1024 x 1, Mips: 1, Format: 0x2, Flags: 0x1
+[2024.01.27-00.38.05:333][228]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStateVelocity_1", 1024 x 1024 x 1, Mips: 1, Format: 0xA, Flags: 0x1
+[2024.01.27-00.38.05:334][228]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleAttributes", 1024 x 1024 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2024.01.27-00.38.05:334][228]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleAttributes", 1024 x 1024 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2024.01.27-00.38.05:334][228]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStatePosition_0", 1024 x 1024 x 1, Mips: 1, Format: 0x2, Flags: 0x1
+[2024.01.27-00.38.05:334][228]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStateVelocity_0", 1024 x 1024 x 1, Mips: 1, Format: 0xA, Flags: 0x1
+[2024.01.27-00.38.05:334][228]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStatePosition_1", 1024 x 1024 x 1, Mips: 1, Format: 0x2, Flags: 0x1
+[2024.01.27-00.38.05:334][228]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStateVelocity_1", 1024 x 1024 x 1, Mips: 1, Format: 0xA, Flags: 0x1
+[2024.01.27-00.38.05:335][228]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleAttributes", 1024 x 1024 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2024.01.27-00.38.05:335][228]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleAttributes", 1024 x 1024 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2024.01.27-00.38.05:335][228]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStatePosition_0", 1024 x 1024 x 1, Mips: 1, Format: 0x2, Flags: 0x1
+[2024.01.27-00.38.05:335][228]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStateVelocity_0", 1024 x 1024 x 1, Mips: 1, Format: 0xA, Flags: 0x1
+[2024.01.27-00.38.05:335][228]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStatePosition_1", 1024 x 1024 x 1, Mips: 1, Format: 0x2, Flags: 0x1
+[2024.01.27-00.38.05:336][228]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStateVelocity_1", 1024 x 1024 x 1, Mips: 1, Format: 0xA, Flags: 0x1
+[2024.01.27-00.38.05:336][228]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleAttributes", 1024 x 1024 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2024.01.27-00.38.05:336][228]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleAttributes", 1024 x 1024 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2024.01.27-00.38.05:336][228]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStatePosition_0", 1024 x 1024 x 1, Mips: 1, Format: 0x2, Flags: 0x1
+[2024.01.27-00.38.05:337][228]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStateVelocity_0", 1024 x 1024 x 1, Mips: 1, Format: 0xA, Flags: 0x1
+[2024.01.27-00.38.05:337][228]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStatePosition_1", 1024 x 1024 x 1, Mips: 1, Format: 0x2, Flags: 0x1
+[2024.01.27-00.38.05:337][228]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStateVelocity_1", 1024 x 1024 x 1, Mips: 1, Format: 0xA, Flags: 0x1
+[2024.01.27-00.38.05:337][228]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleAttributes", 1024 x 1024 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2024.01.27-00.38.05:337][228]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleAttributes", 1024 x 1024 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2024.01.27-00.38.05:337][228]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStatePosition_0", 1024 x 1024 x 1, Mips: 1, Format: 0x2, Flags: 0x1
+[2024.01.27-00.38.05:337][228]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStateVelocity_0", 1024 x 1024 x 1, Mips: 1, Format: 0xA, Flags: 0x1
+[2024.01.27-00.38.05:338][228]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStatePosition_1", 1024 x 1024 x 1, Mips: 1, Format: 0x2, Flags: 0x1
+[2024.01.27-00.38.05:338][228]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStateVelocity_1", 1024 x 1024 x 1, Mips: 1, Format: 0xA, Flags: 0x1
+[2024.01.27-00.38.05:338][228]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleAttributes", 1024 x 1024 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2024.01.27-00.38.05:338][228]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleAttributes", 1024 x 1024 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2024.01.27-00.38.05:338][228]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStatePosition_0", 1024 x 1024 x 1, Mips: 1, Format: 0x2, Flags: 0x1
+[2024.01.27-00.38.05:339][228]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStateVelocity_0", 1024 x 1024 x 1, Mips: 1, Format: 0xA, Flags: 0x1
+[2024.01.27-00.38.05:339][228]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStatePosition_1", 1024 x 1024 x 1, Mips: 1, Format: 0x2, Flags: 0x1
+[2024.01.27-00.38.05:339][228]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStateVelocity_1", 1024 x 1024 x 1, Mips: 1, Format: 0xA, Flags: 0x1
+[2024.01.27-00.38.05:339][228]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleAttributes", 1024 x 1024 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2024.01.27-00.38.05:339][228]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleAttributes", 1024 x 1024 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2024.01.27-00.38.05:339][228]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStatePosition_0", 1024 x 1024 x 1, Mips: 1, Format: 0x2, Flags: 0x1
+[2024.01.27-00.38.05:340][228]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStateVelocity_0", 1024 x 1024 x 1, Mips: 1, Format: 0xA, Flags: 0x1
+[2024.01.27-00.38.05:340][228]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStatePosition_1", 1024 x 1024 x 1, Mips: 1, Format: 0x2, Flags: 0x1
+[2024.01.27-00.38.05:340][228]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStateVelocity_1", 1024 x 1024 x 1, Mips: 1, Format: 0xA, Flags: 0x1
+[2024.01.27-00.38.05:340][228]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleAttributes", 1024 x 1024 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2024.01.27-00.38.05:340][228]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleAttributes", 1024 x 1024 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2024.01.27-00.38.05:340][228]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStatePosition_0", 1024 x 1024 x 1, Mips: 1, Format: 0x2, Flags: 0x1
+[2024.01.27-00.38.05:341][228]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStateVelocity_0", 1024 x 1024 x 1, Mips: 1, Format: 0xA, Flags: 0x1
+[2024.01.27-00.38.05:341][228]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStatePosition_1", 1024 x 1024 x 1, Mips: 1, Format: 0x2, Flags: 0x1
+[2024.01.27-00.38.05:341][228]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStateVelocity_1", 1024 x 1024 x 1, Mips: 1, Format: 0xA, Flags: 0x1
+[2024.01.27-00.38.05:341][228]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleAttributes", 1024 x 1024 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2024.01.27-00.38.05:341][228]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleAttributes", 1024 x 1024 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2024.01.27-00.38.05:341][228]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStatePosition_0", 1024 x 1024 x 1, Mips: 1, Format: 0x2, Flags: 0x1
+[2024.01.27-00.38.05:342][228]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStateVelocity_0", 1024 x 1024 x 1, Mips: 1, Format: 0xA, Flags: 0x1
+[2024.01.27-00.38.05:342][228]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStatePosition_1", 1024 x 1024 x 1, Mips: 1, Format: 0x2, Flags: 0x1
+[2024.01.27-00.38.05:342][228]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStateVelocity_1", 1024 x 1024 x 1, Mips: 1, Format: 0xA, Flags: 0x1
+[2024.01.27-00.38.05:342][228]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleAttributes", 1024 x 1024 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2024.01.27-00.38.05:342][228]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleAttributes", 1024 x 1024 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2024.01.27-00.38.05:343][228]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStatePosition_0", 1024 x 1024 x 1, Mips: 1, Format: 0x2, Flags: 0x1
+[2024.01.27-00.38.05:343][228]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStateVelocity_0", 1024 x 1024 x 1, Mips: 1, Format: 0xA, Flags: 0x1
+[2024.01.27-00.38.05:343][228]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStatePosition_1", 1024 x 1024 x 1, Mips: 1, Format: 0x2, Flags: 0x1
+[2024.01.27-00.38.05:343][228]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStateVelocity_1", 1024 x 1024 x 1, Mips: 1, Format: 0xA, Flags: 0x1
+[2024.01.27-00.38.05:343][228]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleAttributes", 1024 x 1024 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2024.01.27-00.38.05:343][228]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleAttributes", 1024 x 1024 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2024.01.27-00.38.05:344][228]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStatePosition_0", 1024 x 1024 x 1, Mips: 1, Format: 0x2, Flags: 0x1
+[2024.01.27-00.38.05:344][228]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStateVelocity_0", 1024 x 1024 x 1, Mips: 1, Format: 0xA, Flags: 0x1
+[2024.01.27-00.38.05:344][228]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStatePosition_1", 1024 x 1024 x 1, Mips: 1, Format: 0x2, Flags: 0x1
+[2024.01.27-00.38.05:344][228]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStateVelocity_1", 1024 x 1024 x 1, Mips: 1, Format: 0xA, Flags: 0x1
+[2024.01.27-00.38.05:344][228]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleAttributes", 1024 x 1024 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2024.01.27-00.38.05:344][228]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleAttributes", 1024 x 1024 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2024.01.27-00.38.05:345][228]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStatePosition_0", 1024 x 1024 x 1, Mips: 1, Format: 0x2, Flags: 0x1
+[2024.01.27-00.38.05:345][228]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStateVelocity_0", 1024 x 1024 x 1, Mips: 1, Format: 0xA, Flags: 0x1
+[2024.01.27-00.38.05:345][228]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStatePosition_1", 1024 x 1024 x 1, Mips: 1, Format: 0x2, Flags: 0x1
+[2024.01.27-00.38.05:345][228]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStateVelocity_1", 1024 x 1024 x 1, Mips: 1, Format: 0xA, Flags: 0x1
+[2024.01.27-00.38.05:345][228]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleAttributes", 1024 x 1024 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2024.01.27-00.38.05:346][228]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleAttributes", 1024 x 1024 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2024.01.27-00.38.05:346][228]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStatePosition_0", 1024 x 1024 x 1, Mips: 1, Format: 0x2, Flags: 0x1
+[2024.01.27-00.38.05:346][228]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStateVelocity_0", 1024 x 1024 x 1, Mips: 1, Format: 0xA, Flags: 0x1
+[2024.01.27-00.38.05:346][228]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStatePosition_1", 1024 x 1024 x 1, Mips: 1, Format: 0x2, Flags: 0x1
+[2024.01.27-00.38.05:346][228]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStateVelocity_1", 1024 x 1024 x 1, Mips: 1, Format: 0xA, Flags: 0x1
+[2024.01.27-00.38.05:347][228]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleAttributes", 1024 x 1024 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2024.01.27-00.38.05:347][228]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleAttributes", 1024 x 1024 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2024.01.27-00.38.05:347][228]LogD3D12RHI: Display: D3D12 ReleaseResources: "TextureRenderTarget2D_0", 32 x 128 x 1, Mips: 1, Format: 0xA, Flags: 0x1
+[2024.01.27-00.38.05:347][228]LogD3D12RHI: Display: D3D12 ReleaseResources: "TextureRenderTarget2D_1", 256 x 256 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2024.01.27-00.38.05:347][228]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 256 x 256 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2024.01.27-00.38.05:347][228]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 256 x 256 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2024.01.27-00.38.05:347][228]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 256 x 256 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2024.01.27-00.38.05:348][228]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 256 x 256 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2024.01.27-00.38.05:348][228]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 256 x 256 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2024.01.27-00.38.05:348][228]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 48 x 48 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2024.01.27-00.38.05:348][228]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 48 x 48 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2024.01.27-00.38.05:348][228]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 48 x 48 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2024.01.27-00.38.05:348][228]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 48 x 48 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2024.01.27-00.38.05:348][228]LogD3D12RHI: Display: D3D12 ReleaseResources: "FSlateTextureRenderTarget2DResource", 48 x 48 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2024.01.27-00.38.05:349][228]LogD3D12RHI: Display: D3D12 ReleaseResources: "PrimitiveSceneDataTexture", 40 x 1 x 1, Mips: 1, Format: 0x2, Flags: 0x4
+[2024.01.27-00.38.05:349][228]LogD3D12RHI: Display: D3D12 ReleaseResources: "PrimitiveSceneDataTexture", 40 x 1 x 1, Mips: 1, Format: 0x2, Flags: 0x4
+[2024.01.27-00.38.05:349][228]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleCurveTexture", 512 x 512 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2024.01.27-00.38.05:349][228]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.Reflections.AccumulatedResolveVariance", 1528 x 768 x 1, Mips: 1, Format: 0x36, Flags: 0x4
+[2024.01.27-00.38.05:349][228]LogD3D12RHI: Display: D3D12 ReleaseResources: "SkyAtmosphere.CameraAPVolume0", 32 x 32 x 16, Mips: 1, Format: 0xA, Flags: 0x4
+[2024.01.27-00.38.05:349][228]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.VoxelLighting", 64 x 256 x 384, Mips: 1, Format: 0xA, Flags: 0x4
+[2024.01.27-00.38.05:350][228]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.RadianceCache.DepthProbeAtlasTexture", 1024 x 1024 x 1, Mips: 1, Format: 0x36, Flags: 0x4
+[2024.01.27-00.38.05:350][228]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.RadianceCache.RadianceProbeAtlasTextureSource", 1024 x 1024 x 1, Mips: 1, Format: 0x1A, Flags: 0x4
+[2024.01.27-00.38.05:350][228]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.RadianceCache.FinalRadianceAtlas", 2048 x 2048 x 1, Mips: 3, Format: 0x1A, Flags: 0x4
+[2024.01.27-00.38.05:350][228]LogD3D12RHI: Display: D3D12 ReleaseResources: "OctahedralSolidAngleTexture", 16 x 16 x 1, Mips: 1, Format: 0x36, Flags: 0x4
+[2024.01.27-00.38.05:350][228]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.RadianceCache.DepthProbeAtlasTexture", 4096 x 4096 x 1, Mips: 1, Format: 0x36, Flags: 0x4
+[2024.01.27-00.38.05:351][228]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.RadianceCache.RadianceProbeAtlasTextureSource", 4096 x 4096 x 1, Mips: 1, Format: 0x1A, Flags: 0x4
+[2024.01.27-00.38.05:351][228]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.RadianceCache.FinalRadianceAtlas", 4352 x 4352 x 1, Mips: 1, Format: 0x1A, Flags: 0x4
+[2024.01.27-00.38.05:352][228]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.Reflections.NumHistoryFramesAccumulated", 1528 x 768 x 1, Mips: 1, Format: 0x3D, Flags: 0x4
+[2024.01.27-00.38.05:352][228]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.ScreenProbeGather.NumHistoryFramesAccumulated", 1528 x 768 x 1, Mips: 1, Format: 0x3D, Flags: 0x4
+[2024.01.27-00.38.05:352][228]LogD3D12RHI: Display: D3D12 ReleaseResources: "EyeAdaptation", 1 x 1 x 1, Mips: 1, Format: 0x2, Flags: 0x5
+[2024.01.27-00.38.05:352][228]LogD3D12RHI: Display: D3D12 ReleaseResources: "CombineLUTs", 32 x 32 x 32, Mips: 1, Format: 0x18, Flags: 0x1
+[2024.01.27-00.38.05:352][228]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.DepthHistory", 1528 x 768 x 1, Mips: 1, Format: 0x29, Flags: 0x4
+[2024.01.27-00.38.05:352][228]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.ScreenProbeGather.FastUpdateMode", 1528 x 768 x 1, Mips: 1, Format: 0x3D, Flags: 0x4
+[2024.01.27-00.38.05:353][228]LogD3D12RHI: Display: D3D12 ReleaseResources: "VolumetricRenderTarget.Tracing", 382 x 147 x 1, Mips: 1, Format: 0xA, Flags: 0x5
+[2024.01.27-00.38.05:353][228]LogD3D12RHI: Display: D3D12 ReleaseResources: "VolumetricRenderTarget.TracingDepth", 382 x 147 x 1, Mips: 1, Format: 0x22, Flags: 0x5
+[2024.01.27-00.38.05:353][228]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.ScreenProbeGather.RoughSpecularIndirect", 1528 x 768 x 1, Mips: 1, Format: 0x1A, Flags: 0x4
+[2024.01.27-00.38.05:353][228]LogD3D12RHI: Display: D3D12 ReleaseResources: "VolumetricRenderTarget.Reconstruct", 763 x 293 x 1, Mips: 1, Format: 0xA, Flags: 0x1
+[2024.01.27-00.38.05:353][228]LogD3D12RHI: Display: D3D12 ReleaseResources: "VolumetricRenderTarget.ReconstructDepth", 763 x 293 x 1, Mips: 1, Format: 0x22, Flags: 0x1
+[2024.01.27-00.38.05:353][228]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.Reflections.SpecularIndirect", 1528 x 768 x 1, Mips: 1, Format: 0xA, Flags: 0x4
+[2024.01.27-00.38.05:354][228]LogD3D12RHI: Display: D3D12 ReleaseResources: "GlobalDistanceFieldPageAtlas", 512 x 512 x 256, Mips: 1, Format: 0x3D, Flags: 0x4
+[2024.01.27-00.38.05:354][228]LogD3D12RHI: Display: D3D12 ReleaseResources: "GlobalDistanceFieldCoverageAtlas", 256 x 256 x 128, Mips: 1, Format: 0x3D, Flags: 0x4
+[2024.01.27-00.38.05:354][228]LogD3D12RHI: Display: D3D12 ReleaseResources: "DistanceFieldPageTableCombined", 16 x 16 x 64, Mips: 1, Format: 0x39, Flags: 0x4
+[2024.01.27-00.38.05:354][228]LogD3D12RHI: Display: D3D12 ReleaseResources: "GlobalSDFMipTexture", 56 x 56 x 224, Mips: 1, Format: 0x3D, Flags: 0x4
+[2024.01.27-00.38.05:355][228]LogD3D12RHI: Display: D3D12 ReleaseResources: "GlobalDistanceFieldPageTableStationaryLayer", 16 x 16 x 64, Mips: 1, Format: 0x39, Flags: 0x4
+[2024.01.27-00.38.05:355][228]LogD3D12RHI: Display: D3D12 ReleaseResources: "GlobalDistanceFieldPageTableMovableLayer", 16 x 16 x 64, Mips: 1, Format: 0x39, Flags: 0x4
+[2024.01.27-00.38.05:355][228]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.ScreenProbeGather.DiffuseIndirect", 1528 x 768 x 1, Mips: 1, Format: 0xA, Flags: 0x4
+[2024.01.27-00.38.05:355][228]LogD3D12RHI: Display: D3D12 ReleaseResources: "VolumetricRenderTarget.ReconstructDepth", 763 x 293 x 1, Mips: 1, Format: 0x22, Flags: 0x1
+[2024.01.27-00.38.05:355][228]LogD3D12RHI: Display: D3D12 ReleaseResources: "VolumetricRenderTarget.Reconstruct", 763 x 293 x 1, Mips: 1, Format: 0xA, Flags: 0x1
+[2024.01.27-00.38.05:355][228]LogD3D12RHI: Display: D3D12 ReleaseResources: "EyeAdaptation", 1 x 1 x 1, Mips: 1, Format: 0x2, Flags: 0x5
+[2024.01.27-00.38.05:355][228]LogD3D12RHI: Display: D3D12 ReleaseResources: "GBufferA", 1528 x 768 x 1, Mips: 1, Format: 0x18, Flags: 0x1
+[2024.01.27-00.38.05:356][228]LogD3D12RHI: Display: D3D12 ReleaseResources: "SceneColor", 1528 x 768 x 1, Mips: 1, Format: 0xA, Flags: 0x5
+[2024.01.27-00.38.05:356][228]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.ScreenProbeGather.ScreenProbeTranslatedWorldPosition", 96 x 72 x 1, Mips: 1, Format: 0x2, Flags: 0x4
+[2024.01.27-00.38.05:356][228]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.ScreenProbeGather.ScreenProbeSceneDepth", 96 x 72 x 1, Mips: 1, Format: 0x2A, Flags: 0x4
+[2024.01.27-00.38.05:356][228]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.ScreenProbeGather.ScreenProbeFilteredRadiance", 768 x 576 x 1, Mips: 1, Format: 0x1A, Flags: 0x4
+[2024.01.27-00.38.05:356][228]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.RadianceCache.RadianceProbeIndirectionTexture", 192 x 48 x 48, Mips: 1, Format: 0x2A, Flags: 0x4
+[2024.01.27-00.38.05:356][228]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.TranslucencyVolume.SHLightingNewHistory0", 48 x 19 x 26, Mips: 1, Format: 0xA, Flags: 0x4
+[2024.01.27-00.38.05:357][228]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.TranslucencyVolume.SHLightingNewHistory0", 48 x 19 x 26, Mips: 1, Format: 0x1A, Flags: 0x4
+[2024.01.27-00.38.05:357][228]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.RadianceCache.RadianceProbeIndirectionTexture", 72 x 24 x 24, Mips: 1, Format: 0x2A, Flags: 0x4
+[2024.01.27-00.38.05:357][228]LogD3D12RHI: Display: D3D12 ReleaseResources: "SkyAtmosphere.SkyViewLut", 192 x 104 x 1, Mips: 1, Format: 0x1A, Flags: 0x4
+[2024.01.27-00.38.05:357][228]LogD3D12RHI: Display: D3D12 ReleaseResources: "SkyAtmosphere.RealTimeSkyCapViewLut", 192 x 104 x 1, Mips: 1, Format: 0x1A, Flags: 0x4
+[2024.01.27-00.38.05:357][228]LogD3D12RHI: Display: D3D12 ReleaseResources: "SkyAtmosphere.RealTimeSkyCapCamera360APLut", 32 x 32 x 16, Mips: 1, Format: 0xA, Flags: 0x4
+[2024.01.27-00.38.05:357][228]LogD3D12RHI: Display: D3D12 ReleaseResources: "Dummy", 1 x 1 x 1, Mips: 1, Format: 0x36, Flags: 0x4
+[2024.01.27-00.38.05:357][228]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.RadianceCache.RadianceProbeIndirectionTexture", 72 x 24 x 24, Mips: 1, Format: 0x2A, Flags: 0x4
+[2024.01.27-00.38.05:357][228]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.TranslucencyVolume.SHLightingNewHistory0", 48 x 19 x 26, Mips: 1, Format: 0x1A, Flags: 0x4
+[2024.01.27-00.38.05:357][228]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.TranslucencyVolume.SHLightingNewHistory0", 48 x 19 x 26, Mips: 1, Format: 0xA, Flags: 0x4
+[2024.01.27-00.38.05:358][228]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.RadianceCache.RadianceProbeIndirectionTexture", 192 x 48 x 48, Mips: 1, Format: 0x2A, Flags: 0x4
+[2024.01.27-00.38.05:358][228]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.ScreenProbeGather.ScreenProbeFilteredRadiance", 768 x 576 x 1, Mips: 1, Format: 0x1A, Flags: 0x4
+[2024.01.27-00.38.05:358][228]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.ScreenProbeGather.ScreenProbeSceneDepth", 96 x 72 x 1, Mips: 1, Format: 0x2A, Flags: 0x4
+[2024.01.27-00.38.05:358][228]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.ScreenProbeGather.ScreenProbeTranslatedWorldPosition", 96 x 72 x 1, Mips: 1, Format: 0x2, Flags: 0x4
+[2024.01.27-00.38.05:359][228]LogD3D12RHI: Display: D3D12 ReleaseResources: "SceneColor", 1528 x 768 x 1, Mips: 1, Format: 0xA, Flags: 0x5
+[2024.01.27-00.38.05:359][228]LogD3D12RHI: Display: D3D12 ReleaseResources: "GBufferA", 1528 x 768 x 1, Mips: 1, Format: 0x18, Flags: 0x1
+[2024.01.27-00.38.05:359][228]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.Reflections.SpecularIndirect", 1528 x 768 x 1, Mips: 1, Format: 0xA, Flags: 0x4
+[2024.01.27-00.38.05:359][228]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.ScreenProbeGather.RoughSpecularIndirect", 1528 x 768 x 1, Mips: 1, Format: 0x1A, Flags: 0x4
+[2024.01.27-00.38.05:359][228]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.ScreenProbeGather.NumHistoryFramesAccumulated", 1528 x 768 x 1, Mips: 1, Format: 0x3D, Flags: 0x4
+[2024.01.27-00.38.05:359][228]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.ScreenProbeGather.FastUpdateMode", 1528 x 768 x 1, Mips: 1, Format: 0x3D, Flags: 0x4
+[2024.01.27-00.38.05:359][228]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.Reflections.NumHistoryFramesAccumulated", 1528 x 768 x 1, Mips: 1, Format: 0x3D, Flags: 0x4
+[2024.01.27-00.38.05:359][228]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.Reflections.AccumulatedResolveVariance", 1528 x 768 x 1, Mips: 1, Format: 0x36, Flags: 0x4
+[2024.01.27-00.38.05:359][228]LogD3D12RHI: Display: D3D12 ReleaseResources: "SkyAtmosphere.DistantSkyLightLut", 1 x 1 x 1, Mips: 1, Format: 0x1A, Flags: 0x4
+[2024.01.27-00.38.05:360][228]LogD3D12RHI: Display: D3D12 ReleaseResources: "SkyAtmosphere.MultiScatteredLuminanceLut", 32 x 32 x 1, Mips: 1, Format: 0x1A, Flags: 0x4
+[2024.01.27-00.38.05:360][228]LogD3D12RHI: Display: D3D12 ReleaseResources: "SkyAtmosphere.TransmittanceLut", 256 x 64 x 1, Mips: 1, Format: 0x1A, Flags: 0x4
+[2024.01.27-00.38.05:360][228]LogD3D12RHI: Display: D3D12 ReleaseResources: "Shadow.Virtual.PhysicalPagePool", 16384 x 4096 x 1, Mips: 1, Format: 0x2A, Flags: 0x4
+[2024.01.27-00.38.05:363][228]LogD3D12RHI: Display: D3D12 ReleaseResources: "DistanceFields.DistanceFieldBrickTexture", 1024 x 1024 x 8, Mips: 1, Format: 0x3D, Flags: 0x4
+[2024.01.27-00.38.05:363][228]LogD3D12RHI: Display: D3D12 ReleaseResources: "DistanceFields.DistanceFieldBrickTexture", 1024 x 1024 x 8, Mips: 1, Format: 0x3D, Flags: 0x4
+[2024.01.27-00.38.05:363][228]LogD3D12RHI: Display: D3D12 ReleaseResources: "DistanceFields.DistanceFieldBrickTexture", 1024 x 1024 x 8, Mips: 1, Format: 0x3D, Flags: 0x4
+[2024.01.27-00.38.05:363][228]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.SceneAlbedo", 4096 x 4096 x 1, Mips: 1, Format: 0x61, Flags: 0x0
+[2024.01.27-00.38.05:363][228]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.SceneOpacity", 4096 x 4096 x 1, Mips: 1, Format: 0x50, Flags: 0x0
+[2024.01.27-00.38.05:363][228]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.SceneDepth", 4096 x 4096 x 1, Mips: 1, Format: 0x23, Flags: 0x1
+[2024.01.27-00.38.05:364][228]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.SceneNormal", 4096 x 4096 x 1, Mips: 1, Format: 0x53, Flags: 0x0
+[2024.01.27-00.38.05:364][228]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.SceneEmissive", 4096 x 4096 x 1, Mips: 1, Format: 0x5F, Flags: 0x0
+[2024.01.27-00.38.05:364][228]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.SceneDirectLighting", 4096 x 4096 x 1, Mips: 1, Format: 0x1A, Flags: 0x5
+[2024.01.27-00.38.05:364][228]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.SceneIndirectLighting", 4096 x 4096 x 1, Mips: 1, Format: 0x1A, Flags: 0x5
+[2024.01.27-00.38.05:364][228]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.SceneNumFramesAccumulatedAtlas", 4096 x 4096 x 1, Mips: 1, Format: 0x3D, Flags: 0x5
+[2024.01.27-00.38.05:365][228]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.SceneFinalLighting", 4096 x 4096 x 1, Mips: 1, Format: 0x1A, Flags: 0x5
+[2024.01.27-00.38.05:365][228]LogD3D12RHI: Display: D3D12 ReleaseResources: "SkyLight.ConvolvedSkyRenderTarget0", 128 x 128 x 6, Mips: 8, Format: 0x1A, Flags: 0x5
+[2024.01.27-00.38.05:365][228]LogD3D12RHI: Display: D3D12 ReleaseResources: "SkyLight.CapturedSkyRenderTarget", 128 x 128 x 6, Mips: 8, Format: 0x1A, Flags: 0x5
+[2024.01.27-00.38.05:365][228]LogD3D12RHI: Display: D3D12 ReleaseResources: "SkyLight.ConvolvedSkyRenderTarget1", 128 x 128 x 6, Mips: 8, Format: 0x1A, Flags: 0x5
+[2024.01.27-00.38.05:366][228]LogD3D12RHI: Display: D3D12 ReleaseResources: "DistanceFields.DistanceFieldBrickTexture", 1024 x 1024 x 8, Mips: 1, Format: 0x3D, Flags: 0x4
+[2024.01.27-00.38.05:366][228]LogD3D12RHI: Display: D3D12 ReleaseResources: "DistanceFields.DistanceFieldBrickTexture", 1024 x 1024 x 8, Mips: 1, Format: 0x3D, Flags: 0x4
+[2024.01.27-00.38.05:366][228]LogD3D12RHI: Display: D3D12 ReleaseResources: "DistanceFields.DistanceFieldBrickTexture", 1024 x 1024 x 8, Mips: 1, Format: 0x3D, Flags: 0x4
+[2024.01.27-00.38.05:366][228]LogD3D12RHI: Display: D3D12 ReleaseResources: "DistanceFields.DistanceFieldBrickTexture", 1024 x 1024 x 8, Mips: 1, Format: 0x3D, Flags: 0x4
+[2024.01.27-00.38.05:366][228]LogD3D12RHI: Display: D3D12 ReleaseResources: "DistanceFields.DistanceFieldBrickTexture", 1024 x 1024 x 8, Mips: 1, Format: 0x3D, Flags: 0x4
+[2024.01.27-00.38.05:366][228]LogD3D12RHI: Display: D3D12 ReleaseResources: "DistanceFields.DistanceFieldBrickTexture", 1024 x 1024 x 8, Mips: 1, Format: 0x3D, Flags: 0x4
+[2024.01.27-00.38.05:367][228]LogD3D12RHI: Display: D3D12 ReleaseResources: "DistanceFields.DistanceFieldBrickTexture", 1024 x 1024 x 8, Mips: 1, Format: 0x3D, Flags: 0x4
+[2024.01.27-00.38.05:367][228]LogD3D12RHI: Display: D3D12 ReleaseResources: "DistanceFields.DistanceFieldBrickTexture", 1024 x 1024 x 8, Mips: 1, Format: 0x3D, Flags: 0x4
+[2024.01.27-00.38.05:367][228]LogD3D12RHI: Display: D3D12 ReleaseResources: "DistanceFields.DistanceFieldBrickTexture", 1024 x 1024 x 8, Mips: 1, Format: 0x3D, Flags: 0x4
+[2024.01.27-00.38.05:367][228]LogD3D12RHI: Display: D3D12 ReleaseResources: "DistanceFields.DistanceFieldBrickTexture", 1024 x 1024 x 8, Mips: 1, Format: 0x3D, Flags: 0x4
+[2024.01.27-00.38.05:367][228]LogD3D12RHI: Display: D3D12 ReleaseResources: "DistanceFields.DistanceFieldBrickTexture", 1024 x 1024 x 8, Mips: 1, Format: 0x3D, Flags: 0x4
+[2024.01.27-00.38.05:367][228]LogD3D12RHI: Display: D3D12 ReleaseResources: "DistanceFields.DistanceFieldBrickTexture", 1024 x 1024 x 8, Mips: 1, Format: 0x3D, Flags: 0x4
+[2024.01.27-00.38.05:368][228]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.Radiosity.TraceRadianceAtlas", 4096 x 4096 x 1, Mips: 1, Format: 0x1A, Flags: 0x4
+[2024.01.27-00.38.05:368][228]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.Radiosity.ProbeSHBlueAtlas", 1024 x 1024 x 1, Mips: 1, Format: 0xA, Flags: 0x4
+[2024.01.27-00.38.05:368][228]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.Radiosity.ProbeSHRedAtlas", 1024 x 1024 x 1, Mips: 1, Format: 0xA, Flags: 0x4
+[2024.01.27-00.38.05:368][228]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.Radiosity.ProbeSHGreenAtlas", 1024 x 1024 x 1, Mips: 1, Format: 0xA, Flags: 0x4
+[2024.01.27-00.38.05:369][228]LogD3D12RHI: Display: D3D12 ReleaseResources: "DistanceFields.DistanceFieldBrickTexture", 1024 x 1024 x 8, Mips: 1, Format: 0x3D, Flags: 0x4
+[2024.01.27-00.38.05:369][228]LogD3D12RHI: Display: D3D12 ReleaseResources: "DistanceFields.DistanceFieldBrickTexture", 1024 x 1024 x 8, Mips: 1, Format: 0x3D, Flags: 0x4
+[2024.01.27-00.38.05:369][228]LogD3D12RHI: Display: D3D12 ReleaseResources: "DistanceFields.DistanceFieldBrickTexture", 1024 x 1024 x 8, Mips: 1, Format: 0x3D, Flags: 0x4
+[2024.01.27-00.38.05:369][228]LogD3D12RHI: Display: D3D12 ReleaseResources: "DistanceFields.DistanceFieldBrickTexture", 1024 x 1024 x 8, Mips: 1, Format: 0x3D, Flags: 0x4
+[2024.01.27-00.38.05:369][228]LogD3D12RHI: Display: D3D12 ReleaseResources: "DistanceFields.DistanceFieldBrickTexture", 1024 x 1024 x 8, Mips: 1, Format: 0x3D, Flags: 0x4
+[2024.01.27-00.38.05:370][228]LogD3D12RHI: Display: D3D12 ReleaseResources: "DistanceFields.DistanceFieldBrickTexture", 1024 x 1024 x 8, Mips: 1, Format: 0x3D, Flags: 0x4
+[2024.01.27-00.38.05:370][228]LogD3D12RHI: Display: D3D12 ReleaseResources: "DistanceFields.DistanceFieldBrickTexture", 1024 x 1024 x 8, Mips: 1, Format: 0x3D, Flags: 0x4
+[2024.01.27-00.38.05:370][228]LogD3D12RHI: Display: D3D12 ReleaseResources: "DistanceFields.DistanceFieldBrickTexture", 1024 x 1024 x 8, Mips: 1, Format: 0x3D, Flags: 0x4
+[2024.01.27-00.38.05:370][228]LogD3D12RHI: Display: D3D12 ReleaseResources: "DistanceFields.DistanceFieldBrickTexture", 1024 x 1024 x 8, Mips: 1, Format: 0x3D, Flags: 0x4
+[2024.01.27-00.38.05:370][228]LogD3D12RHI: Display: D3D12 ReleaseResources: "Dummy", 1 x 1 x 1, Mips: 1, Format: 0x36, Flags: 0x4
+[2024.01.27-00.38.05:370][228]LogD3D12RHI: Display: D3D12 ReleaseResources: "SkyAtmosphere.RealTimeSkyCapCamera360APLut", 32 x 32 x 16, Mips: 1, Format: 0xA, Flags: 0x4
+[2024.01.27-00.38.05:370][228]LogD3D12RHI: Display: D3D12 ReleaseResources: "SkyAtmosphere.RealTimeSkyCapViewLut", 192 x 104 x 1, Mips: 1, Format: 0x1A, Flags: 0x4
+[2024.01.27-00.38.05:370][228]LogD3D12RHI: Display: D3D12 ReleaseResources: "HairLUT0", 1 x 1 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2024.01.27-00.38.05:371][228]LogD3D12RHI: Display: D3D12 ReleaseResources: "Hair.LUT(DualScattering)", 64 x 64 x 16, Mips: 1, Format: 0xA, Flags: 0x4
+[2024.01.27-00.38.05:371][228]LogD3D12RHI: Display: D3D12 ReleaseResources: "DiffuseIrradianceScratchCubemap1", 32 x 32 x 6, Mips: 6, Format: 0xA, Flags: 0x1
+[2024.01.27-00.38.05:371][228]LogD3D12RHI: Display: D3D12 ReleaseResources: "DiffuseIrradianceScratchCubemap0", 32 x 32 x 6, Mips: 6, Format: 0xA, Flags: 0x1
+[2024.01.27-00.38.05:371][228]LogD3D12RHI: Display: D3D12 ReleaseResources: "ReflectionColorScratchCubemap1", 128 x 128 x 6, Mips: 8, Format: 0xA, Flags: 0x1
+[2024.01.27-00.38.05:371][228]LogD3D12RHI: Display: D3D12 ReleaseResources: "ReflectionColorScratchCubemap0", 128 x 128 x 6, Mips: 8, Format: 0xA, Flags: 0x1
+[2024.01.27-00.38.05:371][228]LogD3D12RHI: Display: D3D12 ReleaseResources: "SkySHIrradiance", 9 x 1 x 1, Mips: 1, Format: 0xA, Flags: 0x1
+[2024.01.27-00.38.05:371][228]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.RadianceCache.FixupProbeBordersIndirectArgs", 65532 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x4
+[2024.01.27-00.38.05:371][228]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.RadianceCache.RadianceCacheHardwareRayTracingIndirectArgs", 65532 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x4
+[2024.01.27-00.38.05:372][228]LogD3D12RHI: Display: D3D12 ReleaseResources: "ShaderDraw.IndirectBuffer", 65536 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x4
+[2024.01.27-00.38.05:372][228]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.Reflections.ReflectionResolveTileIndirectArgs", 65532 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x4
+[2024.01.27-00.38.05:372][228]LogD3D12RHI: Display: D3D12 ReleaseResources: "Nanite.MainAndPostNodesAndClusterBatchesBuffer", 44040192 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x4
+[2024.01.27-00.38.05:373][228]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.CulledObjectIndirectArguments", 65520 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x4
+[2024.01.27-00.38.05:373][228]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.Reflections.CompactTracingIndirectArgs", 65532 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x4
+[2024.01.27-00.38.05:373][228]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.Reflections.CompactRayTraceDispatchIndirectArgs", 65532 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x4
+[2024.01.27-00.38.05:373][228]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.RadianceCache.FilterProbesIndirectArgs", 65532 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x4
+[2024.01.27-00.38.05:373][228]LogD3D12RHI: Display: D3D12 ReleaseResources: "Shadow.Virtual.ProcessGPUInstanceInvalidationsIndirectArgs", 65536 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x4
+[2024.01.27-00.38.05:373][228]LogD3D12RHI: Display: D3D12 ReleaseResources: "InstanceCulling.DrawIndirectArgsBuffer", 65536 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x4
+[2024.01.27-00.38.05:373][228]LogD3D12RHI: Display: D3D12 ReleaseResources: "InstanceCulling.DrawIndirectArgsBuffer", 65536 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x4
+[2024.01.27-00.38.05:373][228]LogD3D12RHI: Display: D3D12 ReleaseResources: "Shadow.Virtual.DrawIndirectArgsBuffer", 65536 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x4
+[2024.01.27-00.38.05:374][228]LogD3D12RHI: Display: D3D12 ReleaseResources: "StagedRead", 262144 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2024.01.27-00.38.05:374][228]LogD3D12RHI: Display: D3D12 ReleaseResources: "StagedRead", 262144 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2024.01.27-00.38.05:374][228]LogD3D12RHI: Display: D3D12 ReleaseResources: "StagedRead", 262144 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2024.01.27-00.38.05:374][228]LogD3D12RHI: Display: D3D12 ReleaseResources: "StagedRead", 262144 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2024.01.27-00.38.05:374][228]LogD3D12RHI: Display: D3D12 ReleaseResources: "StagedRead", 262144 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2024.01.27-00.38.05:374][228]LogD3D12RHI: Display: D3D12 ReleaseResources: "StagedRead", 262144 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2024.01.27-00.38.05:374][228]LogD3D12RHI: Display: D3D12 ReleaseResources: "StagedRead", 262144 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2024.01.27-00.38.05:426][228]LogD3D12RHI: ~FD3D12DynamicRHI
+[2024.01.27-00.38.05:426][228]LogExit: Exiting.
+[2024.01.27-00.38.05:432][228]Log file closed, 01/27/24 00:38:05
